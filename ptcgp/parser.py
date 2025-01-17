@@ -2,6 +2,7 @@ __all__ = (
     "parse_card_by_id",
     "parse_card",
     "parse_all_cards",
+    "save_all_cards",
 )
 
 import os
@@ -38,6 +39,10 @@ def parse_all_cards() -> typing.Iterator[objects.Card]:
                 raise
 
 
-if __name__ == "__main__":
+def save_all_cards():
     for card in parse_all_cards():
         card.to_file()
+
+
+if __name__ == "__main__":
+    save_all_cards()

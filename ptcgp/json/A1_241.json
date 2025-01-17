@@ -5,6 +5,8 @@
   "name": "Nidoking",
   "card_type": "Pokémon",
   "artist": "nagimiso",
+  "rarity": "☆",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Poison",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆",
   "color": "Darkness",
   "life": 150,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 90
 }

@@ -5,6 +5,8 @@
   "name": "Raichu",
   "card_type": "Pokémon",
   "artist": "hncl",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Gigashock",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Lightning",
   "life": 120,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

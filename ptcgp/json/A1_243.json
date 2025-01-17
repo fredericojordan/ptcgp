@@ -5,6 +5,8 @@
   "name": "Weezing",
   "card_type": "Pokémon",
   "artist": "KEIICHIRO ITO",
+  "rarity": "☆",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Tackle",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆",
   "color": "Darkness",
   "life": 110,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned."
   },
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 30
 }

@@ -5,6 +5,8 @@
   "name": "Dragonair",
   "card_type": "Pokémon",
   "artist": "kirisAki",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Tail",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Dragon",
   "life": 100,
   "ability": null,
   "weakness": null,
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 80
 }

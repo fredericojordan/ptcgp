@@ -5,6 +5,8 @@
   "name": "Porygon",
   "card_type": "Pokémon",
   "artist": "Akira Komayama",
+  "rarity": "☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Sharpen",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆",
   "color": "Colorless",
   "life": 50,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Once during your turn, you may look at the top card of your deck."
   },
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

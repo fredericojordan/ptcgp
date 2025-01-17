@@ -5,6 +5,8 @@
   "name": "Sigilyph",
   "card_type": "Pokémon",
   "artist": "Shigenori Negishi",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Spike",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Psychic",
   "life": 80,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

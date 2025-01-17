@@ -5,6 +5,8 @@
   "name": "Articuno ex",
   "card_type": "Pokémon",
   "artist": "kodama",
+  "rarity": "☆☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Ice",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆☆",
   "color": "Water",
   "life": 140,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 80
 }

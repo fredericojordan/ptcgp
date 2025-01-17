@@ -5,6 +5,8 @@
   "name": "Gyarados",
   "card_type": "Pokémon",
   "artist": "Mitsuhiro Arita",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Hyper",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Water",
   "life": 150,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 4
+  "retreat_cost": 4,
+  "dmg": 100
 }

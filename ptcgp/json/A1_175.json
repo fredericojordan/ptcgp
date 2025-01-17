@@ -5,6 +5,8 @@
   "name": "Muk",
   "card_type": "Pokémon",
   "artist": "Hajime Kusajima",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Venoshock",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Darkness",
   "life": 130,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 70
 }

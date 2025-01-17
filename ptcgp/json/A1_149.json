@@ -5,6 +5,8 @@
   "name": "Golem",
   "card_type": "Pokémon",
   "artist": "Sumiyoshi Kizuki",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Double-Edge",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Fighting",
   "life": 160,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 4
+  "retreat_cost": 4,
+  "dmg": 150
 }

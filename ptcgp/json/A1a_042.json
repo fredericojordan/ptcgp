@@ -5,6 +5,8 @@
   "name": "Primeape",
   "card_type": "Pokémon",
   "artist": "Taiga Kayama",
+  "rarity": "◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Punch",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 80,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 50
 }

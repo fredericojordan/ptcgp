@@ -5,6 +5,8 @@
   "name": "Onix",
   "card_type": "Pokémon",
   "artist": "Tomokazu Komiya",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Land",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Fighting",
   "life": 110,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 4
+  "retreat_cost": 4,
+  "dmg": 70
 }

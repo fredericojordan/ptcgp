@@ -3,6 +3,7 @@ __all__ = (
     "CardType",
     "Color",
     "Constants",
+    "EvolutionStage",
     "Expansion",
     "Rarity",
 )
@@ -28,6 +29,12 @@ class Color(enum.StrEnum):
     METAL = "Metal"
     DRAGON = "Dragon"
     COLORLESS = "Colorless"
+
+
+class EvolutionStage(enum.StrEnum):
+    BASIC = "Basic"
+    STAGE_1 = "Stage 1"
+    STAGE_2 = "Stage 2"
 
 
 class CardType(enum.StrEnum):

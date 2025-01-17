@@ -5,6 +5,8 @@
   "name": "Venusaur",
   "card_type": "Pokémon",
   "artist": "Kuroimori",
+  "rarity": null,
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Mega",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Grass",
   "life": 160,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 80
 }

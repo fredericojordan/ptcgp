@@ -5,6 +5,8 @@
   "name": "Blastoise",
   "card_type": "Pokémon",
   "artist": "danciao",
+  "rarity": null,
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Hydro",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Water",
   "life": 150,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 80
 }

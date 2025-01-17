@@ -5,6 +5,8 @@
   "name": "Nidorino",
   "card_type": "Pokémon",
   "artist": "Kouki Saitou",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Horn",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Darkness",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 40
 }

@@ -5,6 +5,8 @@
   "name": "Blastoise ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Tsuji",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Surf",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Water",
   "life": 180,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 100
 }

@@ -5,6 +5,8 @@
   "name": "Rapidash",
   "card_type": "Pokémon",
   "artist": "AKIRA EGAWA",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Rising",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fire",
   "life": 100,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

@@ -5,6 +5,8 @@
   "name": "Heliolisk",
   "card_type": "Pokémon",
   "artist": "otumami",
+  "rarity": "◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Quick",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Lightning",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

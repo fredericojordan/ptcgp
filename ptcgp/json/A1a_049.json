@@ -5,6 +5,8 @@
   "name": "Koffing",
   "card_type": "Pokémon",
   "artist": "Naoyo Kimura",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Division",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Darkness",
   "life": 70,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 0
 }

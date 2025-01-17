@@ -5,6 +5,8 @@
   "name": "Helioptile",
   "card_type": "Pokémon",
   "artist": "5ban Graphics",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Tail",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Lightning",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

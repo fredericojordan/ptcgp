@@ -5,6 +5,8 @@
   "name": "Mewtwo ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Mochizuki",
+  "rarity": "☆☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Psychic",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆☆",
   "color": "Psychic",
   "life": 150,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 150
 }

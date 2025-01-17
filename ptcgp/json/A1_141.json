@@ -5,6 +5,8 @@
   "name": "Mankey",
   "card_type": "Pokémon",
   "artist": "Kanako Eo",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Low",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 60,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

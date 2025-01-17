@@ -5,6 +5,8 @@
   "name": "Ninetales",
   "card_type": "Pokémon",
   "artist": "You Iribi",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Flamethrower",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fire",
   "life": 90,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 90
 }

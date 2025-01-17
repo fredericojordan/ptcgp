@@ -5,6 +5,8 @@
   "name": "Wigglytuff ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Igarashi",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Sleepy",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Colorless",
   "life": 140,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 80
 }

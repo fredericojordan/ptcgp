@@ -5,6 +5,8 @@
   "name": "Ducklett",
   "card_type": "Pokémon",
   "artist": "Yumi",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Flap",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 50,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

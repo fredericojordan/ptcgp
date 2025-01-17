@@ -5,6 +5,8 @@
   "name": "Stonjourner",
   "card_type": "Pokémon",
   "artist": "Teeziro",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Mega",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fighting",
   "life": 120,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 90
 }

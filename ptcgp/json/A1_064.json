@@ -5,6 +5,8 @@
   "name": "Seel",
   "card_type": "Pokémon",
   "artist": "Masako Yamashita",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Headbutt",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 80,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 30
 }

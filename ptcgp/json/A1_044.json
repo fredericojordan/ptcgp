@@ -5,6 +5,8 @@
   "name": "Magmar",
   "card_type": "Pokémon",
   "artist": "Ryuta Fuse",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Magma",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fire",
   "life": 80,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 50
 }

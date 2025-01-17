@@ -5,6 +5,8 @@
   "name": "Eelektross",
   "card_type": "Pokémon",
   "artist": "hatachu",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Thunder",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Lightning",
   "life": 140,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 80
 }

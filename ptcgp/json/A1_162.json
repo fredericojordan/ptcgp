@@ -5,6 +5,8 @@
   "name": "Clobbopus",
   "card_type": "Pokémon",
   "artist": "Yuu Nishida",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Knuckle",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 80,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 30
 }

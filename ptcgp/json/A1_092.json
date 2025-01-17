@@ -5,6 +5,8 @@
   "name": "Snom",
   "card_type": "Pokémon",
   "artist": "ryoma uratsuka",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Ram",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 50,
   "ability": null,
   "weakness": "Metal",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

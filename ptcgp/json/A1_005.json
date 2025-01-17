@@ -5,6 +5,8 @@
   "name": "Caterpie",
   "card_type": "Pokémon",
   "artist": "Miki Tanaka",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Find",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Grass",
   "life": 50,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

@@ -5,6 +5,8 @@
   "name": "Wigglytuff",
   "card_type": "Pokémon",
   "artist": "Atsuko Nishida",
+  "rarity": "◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Hyper",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Colorless",
   "life": 100,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

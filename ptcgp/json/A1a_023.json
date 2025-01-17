@@ -5,6 +5,8 @@
   "name": "Drednaw",
   "card_type": "Pokémon",
   "artist": "nisimono",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Crunch",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Water",
   "life": 130,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 70
 }

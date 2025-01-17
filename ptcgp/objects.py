@@ -86,9 +86,12 @@ class Card(pydantic.BaseModel):
     name: str
     card_type: constants.CardType
     artist: str
-    attacks: list[Attack] = pydantic.Field(default_factory=list)
 
     rarity: constants.Rarity | None = None
+
+    # Pokémon attributes
+    stage: constants.EvolutionStage | None = None
+    attacks: list[Attack] = pydantic.Field(default_factory=list)
     color: constants.Color | None = None
     life: int | None = None
     ability: Ability | None = None
@@ -101,7 +104,7 @@ class Card(pydantic.BaseModel):
 
     @pydantic.computed_field
     @property
-    def max_dmg(self) -> int:
+    def dmg(self) -> int:
         max_dmg_value = 0
         for atk in self.attacks:
             max_dmg_value = max(max_dmg_value, atk.dmg)
@@ -141,13 +144,13 @@ class Card(pydantic.BaseModel):
 
     @property
     def dmg_points(self) -> int:
-        if self.max_dmg >= 100:
+        if self.dmg >= 100:
             return 5
-        if self.max_dmg >= 70:
+        if self.dmg >= 70:
             return 4
-        if self.max_dmg >= 50:
+        if self.dmg >= 50:
             return 3
-        if self.max_dmg >= 30:
+        if self.dmg >= 30:
             return 2
 
         return 1
@@ -158,10 +161,15 @@ class Card(pydantic.BaseModel):
         for atk in self.attacks:
             max_cost = max(max_cost, len(atk.cost))
 
-        points = 5 - max_cost
+        points = 4 - max_cost
 
         if self.ability is not None:
             points += 1
+
+        if self.stage == constants.EvolutionStage.STAGE_1:
+            points += 1
+        if self.stage == constants.EvolutionStage.STAGE_2:
+            points += 2
 
         return points
 
@@ -216,6 +224,12 @@ class Card(pydantic.BaseModel):
                 return constants.CardType(card_type)
 
     @classmethod
+    def get_stage(cls, soup: bs4.Tag) -> constants.EvolutionStage | None:
+        for stage in constants.EvolutionStage:
+            if stage in soup.text:
+                return constants.EvolutionStage(stage)
+
+    @classmethod
     def get_rarity(cls, soup: bs4.Tag) -> constants.Rarity:
 
         if "Crown Rare" in soup.text:
@@ -255,6 +269,7 @@ class Card(pydantic.BaseModel):
             "image": profile.find("div", class_="card-image").img.get("src"),
             "name": details.find("span", class_="card-text-name").text,
             "card_type": cls.get_type(details.find("p", class_="card-text-type")),
+            "stage": cls.get_stage(details.find("p", class_="card-text-type")),
             "rarity": cls.get_rarity(print_info),
             "color": cls.get_color(title),
             "artist": details.find("div", class_="card-text-artist").a.text.strip(),

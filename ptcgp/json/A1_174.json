@@ -5,6 +5,8 @@
   "name": "Grimer",
   "card_type": "Pokémon",
   "artist": "Pani Kobayashi",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Poison",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Darkness",
   "life": 70,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 10
 }

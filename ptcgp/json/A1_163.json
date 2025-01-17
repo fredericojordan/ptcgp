@@ -5,6 +5,8 @@
   "name": "Grapploct",
   "card_type": "Pokémon",
   "artist": "kurumitsu",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Knock",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fighting",
   "life": 130,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 70
 }

@@ -5,6 +5,8 @@
   "name": "Eevee",
   "card_type": "Pokémon",
   "artist": "Hitoshi Ariga",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Continuous",
@@ -15,10 +17,10 @@
       "damage_mult": 20
     }
   ],
-  "rarity": "◊",
   "color": "Colorless",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

@@ -5,6 +5,8 @@
   "name": "Mienshao",
   "card_type": "Pokémon",
   "artist": "Atsuko Nishida",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Spiral",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fighting",
   "life": 80,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

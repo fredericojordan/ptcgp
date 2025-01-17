@@ -5,6 +5,8 @@
   "name": "Charizard ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Mochizuki",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Slash",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Fire",
   "life": 180,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 200
 }

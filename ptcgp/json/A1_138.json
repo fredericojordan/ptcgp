@@ -5,6 +5,8 @@
   "name": "Sandslash",
   "card_type": "Pokémon",
   "artist": "Miki Tanaka",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Slash",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fighting",
   "life": 100,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 70
 }

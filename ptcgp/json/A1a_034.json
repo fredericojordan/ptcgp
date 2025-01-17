@@ -5,6 +5,8 @@
   "name": "Elgyem",
   "card_type": "Pokémon",
   "artist": "Kouki Saitou",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Headbutt",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Psychic",
   "life": 60,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

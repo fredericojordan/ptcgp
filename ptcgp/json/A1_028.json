@@ -5,6 +5,8 @@
   "name": "Whimsicott",
   "card_type": "Pokémon",
   "artist": "Atsuko Nishida",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Rolling",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 80,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

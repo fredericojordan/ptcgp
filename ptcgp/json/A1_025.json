@@ -5,6 +5,8 @@
   "name": "Scyther",
   "card_type": "Pokémon",
   "artist": "Hasuno",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Sharp",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Grass",
   "life": 70,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

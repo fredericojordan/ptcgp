@@ -5,6 +5,8 @@
   "name": "Beheeyem",
   "card_type": "Pokémon",
   "artist": "sowsow",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Mind",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Psychic",
   "life": 90,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

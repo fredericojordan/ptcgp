@@ -36,6 +36,7 @@ card_filters = dmc.Group(
             placeholder="Select ability...",
             clearable=True,
         ),
+        Select("evolution stage", constants.EvolutionStage),
         Select("expansion", constants.Expansion),
         dmc.Button(
             children="Clear all",
@@ -82,7 +83,7 @@ def make_graph(data: list[dict]):
     cards = [objects.Card.model_validate(c).model_dump() for c in data]
     df = pd.DataFrame(cards)
     life_counts = df.life.value_counts()
-    dmg_counts = df.max_dmg.value_counts()
+    dmg_counts = df.dmg.value_counts()
     fig = go.Figure(
         data=[
             go.Bar(name="Life", x=life_counts.index, y=life_counts.values),
@@ -100,6 +101,7 @@ def make_graph(data: list[dict]):
     dash.Input("select-card-type", "value"),
     dash.Input("select-weakness", "value"),
     dash.Input("select-ability", "value"),
+    dash.Input("select-evolution-stage", "value"),
     dash.Input("select-expansion", "value"),
 )
 def filter_cards(
@@ -108,6 +110,7 @@ def filter_cards(
     card_types: list[str],
     weaknesses: list[str],
     ability: str,
+    stages: list[str],
     expansions: list[str],
 ) -> list[dict]:
     cards = ALL_CARDS
@@ -125,6 +128,8 @@ def filter_cards(
             cards = [c for c in cards if c.ability is not None]
         else:
             cards = [c for c in cards if c.ability is None]
+    if stages:
+        cards = [c for c in cards if c.stage in stages]
     if expansions:
         cards = [c for c in cards if c.expansion in expansions]
 
@@ -132,12 +137,13 @@ def filter_cards(
 
 
 dash.clientside_callback(
-    """function (n) { return [[], [], [], [], null, []]; }""",
+    """function (n) { return [[], [], [], [], null, [], []]; }""",
     dash.Output("select-color", "value"),
     dash.Output("select-rarity", "value"),
     dash.Output("select-card-type", "value"),
     dash.Output("select-weakness", "value"),
     dash.Output("select-ability", "value"),
+    dash.Output("select-evolution-stage", "value"),
     dash.Output("select-expansion", "value"),
     dash.Input("clear-filters-btn", "n_clicks"),
     prevent_initial_call=True,

@@ -5,6 +5,8 @@
   "name": "Scolipede",
   "card_type": "Pokémon",
   "artist": "5ban Graphics",
+  "rarity": "◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Venoshock",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Darkness",
   "life": 140,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 70
 }

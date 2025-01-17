@@ -5,6 +5,8 @@
   "name": "Machamp ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Mega",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Fighting",
   "life": 180,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 120
 }

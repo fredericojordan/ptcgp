@@ -5,6 +5,8 @@
   "name": "Venomoth",
   "card_type": "Pokémon",
   "artist": "Mina Nakai",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Poison",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 80,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

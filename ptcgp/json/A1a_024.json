@@ -5,6 +5,8 @@
   "name": "Cramorant",
   "card_type": "Pokémon",
   "artist": "Jerky",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Dive",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 80,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 60
 }

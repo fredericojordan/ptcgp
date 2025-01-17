@@ -5,6 +5,8 @@
   "name": "Victreebel",
   "card_type": "Pokémon",
   "artist": "Sumiyoshi Kizuki",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Vine",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Grass",
   "life": 140,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "If this Pokémon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot."
   },
   "weakness": "Fire",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

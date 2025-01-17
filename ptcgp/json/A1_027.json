@@ -5,6 +5,8 @@
   "name": "Cottonee",
   "card_type": "Pokémon",
   "artist": "Kanako Eo",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Attach",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Grass",
   "life": 50,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

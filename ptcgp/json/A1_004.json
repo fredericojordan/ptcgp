@@ -5,6 +5,8 @@
   "name": "Venusaur ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Razor",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Grass",
   "life": 190,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 100
 }

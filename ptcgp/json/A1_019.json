@@ -5,6 +5,8 @@
   "name": "Weepinbell",
   "card_type": "Pokémon",
   "artist": "Miki Tanaka",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Razor",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 90,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 40
 }

@@ -5,6 +5,8 @@
   "name": "Kangaskhan",
   "card_type": "Pokémon",
   "artist": "Ken Sugimori",
+  "rarity": "◊◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Dizzy",
@@ -15,10 +17,10 @@
       "damage_mult": 30
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Colorless",
   "life": 100,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 30
 }

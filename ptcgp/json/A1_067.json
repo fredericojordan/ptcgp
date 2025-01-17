@@ -5,6 +5,8 @@
   "name": "Cloyster",
   "card_type": "Pokémon",
   "artist": "Saya Tsuruta",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Surf",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Water",
   "life": 120,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "This Pokémon takes -10 damage from attacks."
   },
   "weakness": "Lightning",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 70
 }

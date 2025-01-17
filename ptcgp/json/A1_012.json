@@ -5,6 +5,8 @@
   "name": "Gloom",
   "card_type": "Pokémon",
   "artist": "Anesaki Dynamic",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Drool",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 80,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 40
 }

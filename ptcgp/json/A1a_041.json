@@ -5,6 +5,8 @@
   "name": "Mankey",
   "card_type": "Pokémon",
   "artist": "Akira Komayama",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Focus",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 50,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 50
 }

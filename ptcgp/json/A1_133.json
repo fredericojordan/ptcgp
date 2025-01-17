@@ -5,6 +5,8 @@
   "name": "Woobat",
   "card_type": "Pokémon",
   "artist": "MAHOU",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Gnaw",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Psychic",
   "life": 60,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

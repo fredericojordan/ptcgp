@@ -5,6 +5,8 @@
   "name": "Celebi ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "☆☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Powerful",
@@ -15,10 +17,10 @@
       "damage_mult": 50
     }
   ],
-  "rarity": "☆☆",
   "color": "Grass",
   "life": 130,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 50
 }

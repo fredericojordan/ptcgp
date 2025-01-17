@@ -5,6 +5,8 @@
   "name": "Rhyhorn",
   "card_type": "Pokémon",
   "artist": "Midori Harada",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Tackle",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 80,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 60
 }

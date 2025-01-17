@@ -5,6 +5,8 @@
   "name": "Marowak ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Mochizuki",
+  "rarity": "☆☆",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Bonemerang",
@@ -15,10 +17,10 @@
       "damage_mult": 80
     }
   ],
-  "rarity": "☆☆",
   "color": "Fighting",
   "life": 140,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 80
 }

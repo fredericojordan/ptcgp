@@ -5,6 +5,8 @@
   "name": "Meowth",
   "card_type": "Pokémon",
   "artist": "Shigenori Negishi",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Pay",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Colorless",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

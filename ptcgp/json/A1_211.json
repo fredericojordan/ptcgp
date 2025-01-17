@@ -5,6 +5,8 @@
   "name": "Snorlax",
   "card_type": "Pokémon",
   "artist": "Naoki Saito",
+  "rarity": "◊◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Rollout",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Colorless",
   "life": 150,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 4
+  "retreat_cost": 4,
+  "dmg": 70
 }

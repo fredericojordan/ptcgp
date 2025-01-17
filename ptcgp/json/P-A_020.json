@@ -5,6 +5,8 @@
   "name": "Haunter",
   "card_type": "Pokémon",
   "artist": "Mékayu",
+  "rarity": null,
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Surprise",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Psychic",
   "life": 70,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 50
 }

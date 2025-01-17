@@ -5,6 +5,8 @@
   "name": "Pikachu",
   "card_type": "Pokémon",
   "artist": "Naoyo Kimura",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Circle",
@@ -15,10 +17,10 @@
       "damage_mult": 10
     }
   ],
-  "rarity": "◊",
   "color": "Lightning",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

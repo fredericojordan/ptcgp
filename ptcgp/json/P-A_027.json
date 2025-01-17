@@ -5,6 +5,8 @@
   "name": "Snivy",
   "card_type": "Pokémon",
   "artist": "Yoriyuki Ikegami",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Tackle",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Grass",
   "life": 60,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

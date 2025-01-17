@@ -5,6 +5,8 @@
   "name": "Nidoqueen",
   "card_type": "Pokémon",
   "artist": "nagimiso",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Lovestrike",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Darkness",
   "life": 140,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 80
 }

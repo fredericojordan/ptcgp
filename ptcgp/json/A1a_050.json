@@ -5,6 +5,8 @@
   "name": "Weezing",
   "card_type": "Pokémon",
   "artist": "Mousho",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Smokescreen",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Darkness",
   "life": 110,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 50
 }

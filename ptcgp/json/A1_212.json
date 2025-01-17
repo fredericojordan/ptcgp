@@ -5,6 +5,8 @@
   "name": "Minccino",
   "card_type": "Pokémon",
   "artist": "sui",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Tail",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Colorless",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

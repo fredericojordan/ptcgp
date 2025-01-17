@@ -5,6 +5,8 @@
   "name": "Ponyta",
   "card_type": "Pokémon",
   "artist": "Tomokazu Komiya",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Stomp",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fire",
   "life": 60,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

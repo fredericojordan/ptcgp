@@ -5,6 +5,8 @@
   "name": "Vileplume",
   "card_type": "Pokémon",
   "artist": "Kyoko Umemoto",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Soothing",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Grass",
   "life": 140,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 80
 }

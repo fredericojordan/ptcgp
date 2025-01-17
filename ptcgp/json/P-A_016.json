@@ -5,6 +5,8 @@
   "name": "Clefairy",
   "card_type": "Pokémon",
   "artist": "Shibuzoh.",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Slap",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Psychic",
   "life": 60,
   "ability": null,
   "weakness": "Metal",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

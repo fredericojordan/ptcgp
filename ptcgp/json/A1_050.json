@@ -5,6 +5,8 @@
   "name": "Salazzle",
   "card_type": "Pokémon",
   "artist": "hatachu",
+  "rarity": "◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Fire",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fire",
   "life": 90,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 60
 }

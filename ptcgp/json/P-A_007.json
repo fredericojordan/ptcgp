@@ -5,11 +5,13 @@
   "name": "Professor's Research",
   "card_type": "Supporter",
   "artist": "Naoki Saito",
-  "attacks": [],
   "rarity": null,
+  "stage": null,
+  "attacks": [],
   "color": null,
   "life": null,
   "ability": null,
   "weakness": null,
-  "retreat_cost": null
+  "retreat_cost": null,
+  "dmg": 0
 }

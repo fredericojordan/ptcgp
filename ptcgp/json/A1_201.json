@@ -5,6 +5,8 @@
   "name": "Lickitung",
   "card_type": "Pokémon",
   "artist": "Kagemaru Himeno",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Continuous",
@@ -15,10 +17,10 @@
       "damage_mult": 60
     }
   ],
-  "rarity": "◊◊",
   "color": "Colorless",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 60
 }

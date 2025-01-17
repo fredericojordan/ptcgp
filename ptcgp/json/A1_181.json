@@ -5,6 +5,8 @@
   "name": "Meltan",
   "card_type": "Pokémon",
   "artist": "Shin Nagasawa",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Amass",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Metal",
   "life": 60,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

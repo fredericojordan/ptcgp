@@ -5,6 +5,8 @@
   "name": "Dhelmise",
   "card_type": "Pokémon",
   "artist": "Hasuno",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Energy",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 100,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 20
 }

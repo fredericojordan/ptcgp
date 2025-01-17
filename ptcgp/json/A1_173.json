@@ -5,6 +5,8 @@
   "name": "Golbat",
   "card_type": "Pokémon",
   "artist": "Masakazu Fukuda",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Wing",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Darkness",
   "life": 70,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

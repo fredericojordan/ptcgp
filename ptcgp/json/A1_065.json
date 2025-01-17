@@ -5,6 +5,8 @@
   "name": "Dewgong",
   "card_type": "Pokémon",
   "artist": "Kanako Eo",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Surf",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Water",
   "life": 120,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 90
 }

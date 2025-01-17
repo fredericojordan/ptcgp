@@ -5,6 +5,8 @@
   "name": "Haunter",
   "card_type": "Pokémon",
   "artist": "Nisata Niso",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Will-O-Wisp",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Psychic",
   "life": 80,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

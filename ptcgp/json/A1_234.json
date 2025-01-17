@@ -5,6 +5,8 @@
   "name": "Lapras",
   "card_type": "Pokémon",
   "artist": "Haru Akasaka",
+  "rarity": "☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Hydro",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆",
   "color": "Water",
   "life": 100,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 20
 }

@@ -5,6 +5,8 @@
   "name": "Rhydon",
   "card_type": "Pokémon",
   "artist": "Masakazu Fukuda",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Horn",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fighting",
   "life": 120,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 4
+  "retreat_cost": 4,
+  "dmg": 100
 }

@@ -5,6 +5,8 @@
   "name": "Marshadow",
   "card_type": "Pokémon",
   "artist": "OKACHEKE",
+  "rarity": "☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Revenge",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆",
   "color": "Fighting",
   "life": 80,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

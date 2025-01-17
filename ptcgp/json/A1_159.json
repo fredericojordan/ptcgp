@@ -5,6 +5,8 @@
   "name": "Kabutops",
   "card_type": "Pokémon",
   "artist": "Shin Nagasawa",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Leech",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Fighting",
   "life": 140,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 50
 }

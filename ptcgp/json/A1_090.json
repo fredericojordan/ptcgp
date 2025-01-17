@@ -5,6 +5,8 @@
   "name": "Pyukumuku",
   "card_type": "Pokémon",
   "artist": "OOYAMA",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Rain",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 70,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

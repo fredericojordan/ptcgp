@@ -5,6 +5,8 @@
   "name": "Magnemite",
   "card_type": "Pokémon",
   "artist": "Miki Tanaka",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Lightning",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Lightning",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

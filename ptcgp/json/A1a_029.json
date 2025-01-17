@@ -5,6 +5,8 @@
   "name": "Galvantula",
   "card_type": "Pokémon",
   "artist": "Mitsuhiro Arita",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Electroweb",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Lightning",
   "life": 80,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 70
 }

@@ -5,6 +5,8 @@
   "name": "Rattata",
   "card_type": "Pokémon",
   "artist": "Atsushi Furusawa",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Gnaw",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Colorless",
   "life": 40,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

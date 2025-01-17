@@ -5,6 +5,8 @@
   "name": "Electrode",
   "card_type": "Pokémon",
   "artist": "Asako Ito",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Electro",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Lightning",
   "life": 80,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 0
+  "retreat_cost": 0,
+  "dmg": 70
 }

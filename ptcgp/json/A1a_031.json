@@ -5,6 +5,8 @@
   "name": "Mew",
   "card_type": "Pokémon",
   "artist": "Saya Tsuruta",
+  "rarity": "◊◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Psy",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Psychic",
   "life": 60,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

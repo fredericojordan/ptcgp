@@ -5,6 +5,8 @@
   "name": "Slurpuff",
   "card_type": "Pokémon",
   "artist": "Kagemaru Himeno",
+  "rarity": "◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Magical",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Psychic",
   "life": 100,
   "ability": null,
   "weakness": "Metal",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

@@ -5,6 +5,8 @@
   "name": "Chansey",
   "card_type": "Pokémon",
   "artist": "MAHOU",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Gentle",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Colorless",
   "life": 120,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 60
 }

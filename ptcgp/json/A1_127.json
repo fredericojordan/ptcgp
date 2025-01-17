@@ -5,6 +5,8 @@
   "name": "Jynx",
   "card_type": "Pokémon",
   "artist": "Oswaldo KATO",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Psychic",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Psychic",
   "life": 80,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

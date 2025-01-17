@@ -5,6 +5,8 @@
   "name": "Zebstrika",
   "card_type": "Pokémon",
   "artist": "Misa Tsutsui",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Thunder",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Lightning",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

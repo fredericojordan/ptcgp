@@ -5,6 +5,8 @@
   "name": "Mew ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "🜲",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Psyshot",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "🜲",
   "color": "Psychic",
   "life": 130,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

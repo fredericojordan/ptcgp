@@ -5,6 +5,8 @@
   "name": "Magikarp",
   "card_type": "Pokémon",
   "artist": "Mitsuhiro Arita",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Leap",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 30,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

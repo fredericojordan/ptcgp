@@ -5,6 +5,8 @@
   "name": "Charmeleon",
   "card_type": "Pokémon",
   "artist": "kantaro",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Fire",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fire",
   "life": 90,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

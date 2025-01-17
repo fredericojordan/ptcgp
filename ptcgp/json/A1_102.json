@@ -5,6 +5,8 @@
   "name": "Jolteon",
   "card_type": "Pokémon",
   "artist": "Kouki Saitou",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Pin",
@@ -15,10 +17,10 @@
       "damage_mult": 40
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Lightning",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

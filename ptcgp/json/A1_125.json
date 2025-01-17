@@ -5,6 +5,8 @@
   "name": "Hypno",
   "card_type": "Pokémon",
   "artist": "Shigenori Negishi",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Psypunch",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Psychic",
   "life": 100,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
   },
   "weakness": "Darkness",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 50
 }

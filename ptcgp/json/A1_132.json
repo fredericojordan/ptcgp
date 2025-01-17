@@ -5,6 +5,8 @@
   "name": "Gardevoir",
   "card_type": "Pokémon",
   "artist": "Yuu Nishida",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Psyshot",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Psychic",
   "life": 110,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Once during your turn, you may take 1 [P] Energy from your Energy Zone and attach it to the [P] Pokémon in the Active Spot."
   },
   "weakness": "Darkness",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

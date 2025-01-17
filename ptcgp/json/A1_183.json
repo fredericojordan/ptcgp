@@ -5,6 +5,8 @@
   "name": "Dratini",
   "card_type": "Pokémon",
   "artist": "Ayaka Yoshida",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Ram",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Dragon",
   "life": 70,
   "ability": null,
   "weakness": null,
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

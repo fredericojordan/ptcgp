@@ -5,6 +5,8 @@
   "name": "Squirtle",
   "card_type": "Pokémon",
   "artist": "Mizue",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Water",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 60,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

@@ -5,6 +5,8 @@
   "name": "Starmie",
   "card_type": "Pokémon",
   "artist": "Yukiko Baba",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Wave",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Water",
   "life": 90,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 0
+  "retreat_cost": 0,
+  "dmg": 40
 }

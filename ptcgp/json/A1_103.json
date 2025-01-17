@@ -5,6 +5,8 @@
   "name": "Zapdos",
   "card_type": "Pokémon",
   "artist": "Hitoshi Ariga",
+  "rarity": "◊◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Raging",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Lightning",
   "life": 100,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 100
 }

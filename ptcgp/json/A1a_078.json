@@ -5,6 +5,8 @@
   "name": "Aerodactyl ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "☆☆",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Land",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆☆",
   "color": "Fighting",
   "life": 140,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
   },
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 80
 }

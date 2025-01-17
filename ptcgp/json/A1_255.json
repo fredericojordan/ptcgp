@@ -5,6 +5,8 @@
   "name": "Moltres ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Saito",
+  "rarity": "☆☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Inferno",
@@ -23,10 +25,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆☆",
   "color": "Fire",
   "life": 140,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 70
 }

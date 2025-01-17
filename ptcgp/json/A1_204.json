@@ -5,6 +5,8 @@
   "name": "Tauros",
   "card_type": "Pokémon",
   "artist": "kodama",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Horn",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Colorless",
   "life": 100,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 50
 }

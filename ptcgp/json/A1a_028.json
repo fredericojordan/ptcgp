@@ -5,6 +5,8 @@
   "name": "Joltik",
   "card_type": "Pokémon",
   "artist": "MINAMINAMI Take",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Bug",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Lightning",
   "life": 40,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

@@ -5,6 +5,8 @@
   "name": "Pidgeot ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "☆☆",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Scattering",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆☆",
   "color": "Colorless",
   "life": 170,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 80
 }

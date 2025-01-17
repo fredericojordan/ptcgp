@@ -5,6 +5,8 @@
   "name": "Parasect",
   "card_type": "Pokémon",
   "artist": "Eri Yamaki",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Slash",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 120,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 80
 }

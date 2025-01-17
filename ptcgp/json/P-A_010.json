@@ -5,6 +5,8 @@
   "name": "Mewtwo",
   "card_type": "Pokémon",
   "artist": "Krgc",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Power",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Psychic",
   "life": 120,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 120
 }

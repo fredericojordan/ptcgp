@@ -5,6 +5,8 @@
   "name": "Whirlipede",
   "card_type": "Pokémon",
   "artist": "Shin Nagasawa",
+  "rarity": "◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Poison",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Darkness",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 20
 }

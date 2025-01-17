@@ -5,6 +5,8 @@
   "name": "Bisharp",
   "card_type": "Pokémon",
   "artist": "Anesaki Dynamic",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Metal",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Metal",
   "life": 90,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 70
 }

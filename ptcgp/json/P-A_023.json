@@ -5,6 +5,8 @@
   "name": "Bulbasaur",
   "card_type": "Pokémon",
   "artist": "Kouki Saitou",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Vine",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Grass",
   "life": 70,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 40
 }

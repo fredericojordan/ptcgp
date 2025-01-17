@@ -5,6 +5,8 @@
   "name": "Salandit",
   "card_type": "Pokémon",
   "artist": "Nurikabe",
+  "rarity": "☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Venoshock",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "☆",
   "color": "Fire",
   "life": 60,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 10
 }

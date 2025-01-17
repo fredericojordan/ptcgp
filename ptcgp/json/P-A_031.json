@@ -5,6 +5,8 @@
   "name": "Cinccino",
   "card_type": "Pokémon",
   "artist": "MAHOU",
+  "rarity": null,
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Do",
@@ -15,10 +17,10 @@
       "damage_mult": 30
     }
   ],
-  "rarity": null,
   "color": "Colorless",
   "life": 90,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

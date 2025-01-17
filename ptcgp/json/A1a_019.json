@@ -5,6 +5,8 @@
   "name": "Vaporeon",
   "card_type": "Pokémon",
   "artist": "LINNE",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Wave",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Water",
   "life": 120,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "As often as you like during your turn, you may move a [W] Energy from 1 of your Benched [W] Pokémon to your Active [W] Pokémon."
   },
   "weakness": "Lightning",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

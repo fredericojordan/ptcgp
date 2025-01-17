@@ -5,6 +5,8 @@
   "name": "Graveler",
   "card_type": "Pokémon",
   "artist": "Naoyo Kimura",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Rollout",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fighting",
   "life": 100,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 70
 }

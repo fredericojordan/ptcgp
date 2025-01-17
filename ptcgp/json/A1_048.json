@@ -5,6 +5,8 @@
   "name": "Heatmor",
   "card_type": "Pokémon",
   "artist": "Suwama Chiaki",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Combustion",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fire",
   "life": 80,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

@@ -5,6 +5,8 @@
   "name": "Pincurchin",
   "card_type": "Pokémon",
   "artist": "Tika Matsuno",
+  "rarity": "◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Thunder",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Lightning",
   "life": 70,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

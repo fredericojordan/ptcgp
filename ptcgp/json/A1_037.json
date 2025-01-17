@@ -5,6 +5,8 @@
   "name": "Vulpix",
   "card_type": "Pokémon",
   "artist": "Toshinao Aoki",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Tail",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fire",
   "life": 50,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

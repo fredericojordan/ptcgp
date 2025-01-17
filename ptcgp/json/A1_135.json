@@ -5,6 +5,8 @@
   "name": "Golett",
   "card_type": "Pokémon",
   "artist": "Kyoko Umemoto",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Mega",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Psychic",
   "life": 90,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 50
 }

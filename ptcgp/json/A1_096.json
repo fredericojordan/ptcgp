@@ -5,6 +5,8 @@
   "name": "Pikachu ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "◊◊◊◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Circle",
@@ -15,10 +17,10 @@
       "damage_mult": 30
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Lightning",
   "life": 120,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

@@ -5,6 +5,8 @@
   "name": "Exeggutor",
   "card_type": "Pokémon",
   "artist": "Masakazu Fukuda",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Psychic",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Grass",
   "life": 130,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 80
 }

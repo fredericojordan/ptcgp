@@ -5,6 +5,8 @@
   "name": "Golurk",
   "card_type": "Pokémon",
   "artist": "match",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Double",
@@ -15,10 +17,10 @@
       "damage_mult": 100
     }
   ],
-  "rarity": "◊◊",
   "color": "Psychic",
   "life": 140,
   "ability": null,
   "weakness": "Darkness",
-  "retreat_cost": 4
+  "retreat_cost": 4,
+  "dmg": 100
 }

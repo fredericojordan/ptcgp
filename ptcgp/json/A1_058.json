@@ -5,6 +5,8 @@
   "name": "Golduck",
   "card_type": "Pokémon",
   "artist": "Naoki Saito",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Aqua",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Water",
   "life": 90,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 70
 }

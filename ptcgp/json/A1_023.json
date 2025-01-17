@@ -5,6 +5,8 @@
   "name": "Exeggutor ex",
   "card_type": "Pokémon",
   "artist": "PLANETA CG Works",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Tropical",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Grass",
   "life": 160,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 40
 }

@@ -5,6 +5,8 @@
   "name": "Magneton",
   "card_type": "Pokémon",
   "artist": "kirisAki",
+  "rarity": "◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Spinning",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Lightning",
   "life": 80,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Once during your turn, you may take a [L] Energy from your Energy Zone and attach it to this Pokémon."
   },
   "weakness": "Fighting",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 60
 }

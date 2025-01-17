@@ -5,6 +5,8 @@
   "name": "Cubone",
   "card_type": "Pokémon",
   "artist": "sowsow",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Growl",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 60,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

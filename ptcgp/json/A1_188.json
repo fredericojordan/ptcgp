@@ -5,6 +5,8 @@
   "name": "Pidgeot",
   "card_type": "Pokémon",
   "artist": "Scav",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Wing",
@@ -15,7 +17,6 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Colorless",
   "life": 130,
   "ability": {
@@ -23,5 +24,6 @@
     "effect": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
   },
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 70
 }

@@ -5,6 +5,8 @@
   "name": "Nidorina",
   "card_type": "Pokémon",
   "artist": "Kagemaru Himeno",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Bite",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Darkness",
   "life": 80,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

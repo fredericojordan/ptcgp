@@ -5,6 +5,8 @@
   "name": "Centiskorch",
   "card_type": "Pokémon",
   "artist": "GOSSAN",
+  "rarity": "◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Fire",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊",
   "color": "Fire",
   "life": 130,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 130
 }

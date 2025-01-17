@@ -5,6 +5,8 @@
   "name": "Growlithe",
   "card_type": "Pokémon",
   "artist": "Mizue",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Bite",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fire",
   "life": 70,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

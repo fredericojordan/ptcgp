@@ -5,6 +5,8 @@
   "name": "Geodude",
   "card_type": "Pokémon",
   "artist": "GOSSAN",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Light",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 70,
   "ability": null,
   "weakness": "Grass",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 30
 }

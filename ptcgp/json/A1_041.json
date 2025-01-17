@@ -5,6 +5,8 @@
   "name": "Arcanine ex",
   "card_type": "Pokémon",
   "artist": "PLANETA Saito",
+  "rarity": "◊◊◊◊",
+  "stage": "Stage 1",
   "attacks": [
     {
       "name": "Inferno",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊◊",
   "color": "Fire",
   "life": 150,
   "ability": null,
   "weakness": "Water",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 120
 }

@@ -5,6 +5,8 @@
   "name": "Pinsir",
   "card_type": "Pokémon",
   "artist": "Scav",
+  "rarity": "☆",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Double",
@@ -15,10 +17,10 @@
       "damage_mult": 50
     }
   ],
-  "rarity": "☆",
   "color": "Grass",
   "life": 90,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 50
 }

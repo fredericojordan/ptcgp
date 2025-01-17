@@ -5,11 +5,13 @@
   "name": "Red Card",
   "card_type": "Item",
   "artist": "5ban Graphics",
-  "attacks": [],
   "rarity": null,
+  "stage": null,
+  "attacks": [],
   "color": null,
   "life": null,
   "ability": null,
   "weakness": null,
-  "retreat_cost": null
+  "retreat_cost": null,
+  "dmg": 0
 }

@@ -5,6 +5,8 @@
   "name": "Pikachu",
   "card_type": "Pokémon",
   "artist": "Atsushi Furusawa",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Gnaw",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Lightning",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

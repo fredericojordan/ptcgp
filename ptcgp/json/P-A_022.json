@@ -5,6 +5,8 @@
   "name": "Jigglypuff",
   "card_type": "Pokémon",
   "artist": "Kurata So",
+  "rarity": null,
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Sing",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": null,
   "color": "Colorless",
   "life": 60,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 0
 }

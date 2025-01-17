@@ -5,6 +5,8 @@
   "name": "Tynamo",
   "card_type": "Pokémon",
   "artist": "Asako Ito",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Tiny",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Lightning",
   "life": 30,
   "ability": null,
   "weakness": "Fighting",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 30
 }

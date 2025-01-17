@@ -5,6 +5,8 @@
   "name": "Machamp",
   "card_type": "Pokémon",
   "artist": "Hitoshi Ariga",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Seismic",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Fighting",
   "life": 150,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 100
 }

@@ -5,6 +5,8 @@
   "name": "Mawile",
   "card_type": "Pokémon",
   "artist": "Kagemaru Himeno",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Crunch",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Metal",
   "life": 70,
   "ability": null,
   "weakness": "Fire",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

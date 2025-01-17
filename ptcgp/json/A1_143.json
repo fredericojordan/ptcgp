@@ -5,6 +5,8 @@
   "name": "Machop",
   "card_type": "Pokémon",
   "artist": "Kyoko Umemoto",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Knuckle",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Fighting",
   "life": 70,
   "ability": null,
   "weakness": "Psychic",
-  "retreat_cost": 2
+  "retreat_cost": 2,
+  "dmg": 20
 }

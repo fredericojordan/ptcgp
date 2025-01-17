@@ -5,6 +5,8 @@
   "name": "Tentacool",
   "card_type": "Pokémon",
   "artist": "Shinya Komatsu",
+  "rarity": "◊",
+  "stage": "Basic",
   "attacks": [
     {
       "name": "Gentle",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊",
   "color": "Water",
   "life": 60,
   "ability": null,
   "weakness": "Lightning",
-  "retreat_cost": 1
+  "retreat_cost": 1,
+  "dmg": 20
 }

@@ -5,6 +5,8 @@
   "name": "Dragonite",
   "card_type": "Pokémon",
   "artist": "Hiroyuki Yamamoto",
+  "rarity": "◊◊◊",
+  "stage": "Stage 2",
   "attacks": [
     {
       "name": "Draco",
@@ -15,10 +17,10 @@
       "damage_mult": null
     }
   ],
-  "rarity": "◊◊◊",
   "color": "Dragon",
   "life": 160,
   "ability": null,
   "weakness": null,
-  "retreat_cost": 3
+  "retreat_cost": 3,
+  "dmg": 0
 }

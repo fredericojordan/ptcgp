@@ -13,8 +13,9 @@ from . import utils
 
 
 def parse_card_by_id(exp_name: str, card_id: str) -> objects.Card:
+    bare_id = card_id.lstrip("0")
     exp_folder = os.path.join(constants.Constants.EXPANSIONS_FOLDER, exp_name)
-    filepath = os.path.join(exp_folder, f"{card_id}.html")
+    filepath = os.path.join(exp_folder, f"{bare_id}.html")
     return parse_card(filepath)
 
 

@@ -6,7 +6,7 @@ import dash_mantine_components as dmc
 from ptcgp import constants, parser
 from ptcgp.app.components import Select
 
-dash.register_page(__name__, path='/')
+dash.register_page(__name__, path="/")
 
 ALL_CARDS = sorted(parser.parse_all_cards(), key=lambda c: c.index_str)
 

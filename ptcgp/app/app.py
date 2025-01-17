@@ -11,7 +11,7 @@ app = dash.Dash(
     use_pages=True,
 )
 
-app.layout = dash.page_container
+app.layout = dmc.MantineProvider([dash.page_container])
 app.server.static_folder = "assets"
 
 

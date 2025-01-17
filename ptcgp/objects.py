@@ -128,6 +128,9 @@ class Card(pydantic.BaseModel):
 
     @property
     def life_points(self) -> int:
+        """Gyarados ex, Exeggutor ex, Dragonite, Gyarados, Golem, Arcanine ex,
+        Poliwrath, Pidgeot ex, Blastoise ex, Machamp, Venusaur ex, Venusaur, Machamp ex,
+         Mewtwo ex, Gengar ex, Charizard, Snorlax, Blastoise, Nidoking, Charizard ex"""
         if not self.life:
             return 1
 
@@ -144,6 +147,9 @@ class Card(pydantic.BaseModel):
 
     @property
     def dmg_points(self) -> int:
+        """Centiskorch, Gyarados ex, Mewtwo, Golurk, Gyarados, Golem, Arcanine ex,
+        Melmetal, Rhydon, Flareon, Raichu, Moltres, Blastoise ex, Machamp, Venusaur ex,
+        Machamp ex, Mewtwo ex, Gengar ex, Charizard, Zapdos, Arcanine, Charizard ex"""
         if self.dmg >= 100:
             return 5
         if self.dmg >= 70:
@@ -156,7 +162,8 @@ class Card(pydantic.BaseModel):
         return 1
 
     @property
-    def speed_points(self) -> int:  # TODO: consider stage
+    def speed_points(self) -> int:
+        """Beedrill, Gengar, Kabutops, Weezing, Pidgeot, Victreebel, Greninja"""
         max_cost = 0
         for atk in self.attacks:
             max_cost = max(max_cost, len(atk.cost))
@@ -188,7 +195,8 @@ class Card(pydantic.BaseModel):
 
     @property
     def retreat_points(self) -> int:
-        return 5 - self.retreat_cost if self.retreat_cost else 1
+        """Dodrio, Starmie, Electrode, Lumineon, Starmie ex"""
+        return (5 - self.retreat_cost) if self.retreat_cost is not None else 1
 
     @property
     def stats(self) -> pd.DataFrame:

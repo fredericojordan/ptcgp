@@ -18,6 +18,7 @@ carousel = dmc.Carousel(
     withIndicators=True,
     slideSize={"base": "100%", "sm": "50%", "md": "33.333333%", "lg": "20%"},
     slideGap={"base": "sm", "sm": "md"},
+    dragFree=True,
     loop=True,
     align="start",
     height=500,
@@ -80,16 +81,18 @@ def display_cards(data: list[dict]):
     prevent_initial_call=True,
 )
 def make_graph(data: list[dict]):
-    cards = [objects.Card.model_validate(c).model_dump() for c in data]
-    df = pd.DataFrame(cards)
-    life_counts = df.life.value_counts()
-    dmg_counts = df.dmg.value_counts()
-    fig = go.Figure(
-        data=[
+    graph_data = []
+    if len(data) > 0:
+        cards = [objects.Card.model_validate(c).model_dump() for c in data]
+        df = pd.DataFrame(cards)
+        life_counts = df.life.value_counts()
+        dmg_counts = df.dmg.value_counts()
+        graph_data = [
             go.Bar(name="Life", x=life_counts.index, y=life_counts.values),
             go.Bar(name="Dmg", x=dmg_counts.index, y=dmg_counts.values),
-        ],
-    )
+        ]
+
+    fig = go.Figure(data=graph_data)
     fig.update_layout(paper_bgcolor="#333", template="plotly_dark")
     return dmc.Container(children=[dash.dcc.Graph(figure=fig)])
 

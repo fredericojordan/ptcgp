@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ptcgp",
-    version="0.1.2",
+    version="0.2.0",
     url="https://github.com/fredericojordan/ptcgp.git",
     author="Frederico Jordan",
     author_email="fredericojordan@gmail.com",
@@ -12,6 +12,7 @@ setup(
         "beautifulsoup4",
         "dash",
         "dash_mantine_components",
+        "pandas",
         "pydantic",
         "requests",
     ],

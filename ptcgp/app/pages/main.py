@@ -1,27 +1,12 @@
-import enum
+__all__ = ("layout",)
 
 import dash
 import dash_mantine_components as dmc
 
-import constants
-import parser
-import utils
+from ptcgp import constants, parser
+from ptcgp.app.components import Select
 
-
-class Select(dmc.MultiSelect):
-    def __init__(self, name: str, options: type[enum.StrEnum], *args, **kwargs):
-        kwargs = {
-            "id": f"select-{utils.kebab_case(name)}",
-            "data": list(options),
-            "placeholder": f"Select {name}...",
-            "searchable": True,
-            "clearable": True,
-            **kwargs,
-        }
-        super().__init__(*args, **kwargs)
-
-
-dash._dash_renderer._set_react_version("18.2.0")  # noqa
+dash.register_page(__name__, path='/')
 
 ALL_CARDS = sorted(parser.parse_all_cards(), key=lambda c: c.index_str)
 
@@ -35,11 +20,6 @@ carousel = dmc.Carousel(
     align="start",
     height=500,
     p=50,
-)
-
-app = dash.Dash(
-    title="PTCGP Explorer",
-    external_stylesheets=dmc.styles.ALL,
 )
 
 card_filters = dmc.Group(
@@ -64,7 +44,7 @@ card_filters = dmc.Group(
     ]
 )
 
-app.layout = dmc.MantineProvider(
+layout = dmc.MantineProvider(
     [
         dash.html.H1(
             children="Pokémon TCG Pocket Explorer", style={"textAlign": "center"}
@@ -74,7 +54,6 @@ app.layout = dmc.MantineProvider(
         dmc.Center(dash.html.H4(id="card-count", children="")),
     ]
 )
-app.server.static_folder = "assets"
 
 
 @dash.callback(
@@ -88,7 +67,12 @@ app.server.static_folder = "assets"
     dash.Input("select-expansion", "value"),
 )
 def filter_cards(
-    color_values: list[str], rarity_values: list[str], card_types: list[str], weaknesses: list[str], ability: str, expansions: list[str]
+    color_values: list[str],
+    rarity_values: list[str],
+    card_types: list[str],
+    weaknesses: list[str],
+    ability: str,
+    expansions: list[str],
 ):
     cards = ALL_CARDS
 
@@ -122,7 +106,3 @@ dash.clientside_callback(
     dash.Input("clear-filters-btn", "n_clicks"),
     prevent_initial_call=True,
 )
-
-
-if __name__ == "__main__":
-    app.run(debug=True)

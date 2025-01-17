@@ -3,4 +3,3 @@ dash
 dash_mantine_components
 pydantic
 requests
-rich

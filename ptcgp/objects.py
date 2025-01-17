@@ -10,8 +10,8 @@ import bs4
 import dash_mantine_components as dmc
 import pydantic
 
-import constants
-import utils
+from . import constants
+from . import utils
 
 
 class Attack(pydantic.BaseModel):

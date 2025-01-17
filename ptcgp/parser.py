@@ -7,11 +7,9 @@ __all__ = (
 import os
 import typing
 
-from rich import print
-
-import constants
-import objects
-import utils
+from . import constants
+from . import objects
+from . import utils
 
 
 def parse_card_by_id(exp_name: str, card_id: str) -> objects.Card:

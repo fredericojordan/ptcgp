@@ -14,10 +14,9 @@ import typing
 
 import requests
 from bs4 import BeautifulSoup
-from rich import print
 
-import constants
-import utils
+from . import constants
+from . import utils
 
 
 class Urls(enum.StrEnum):

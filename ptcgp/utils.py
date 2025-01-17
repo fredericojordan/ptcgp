@@ -9,7 +9,7 @@ __all__ = (
 import enum
 import os
 
-from constants import Constants
+from .constants import Constants
 
 
 def load_html_file(filename: str) -> str | None:

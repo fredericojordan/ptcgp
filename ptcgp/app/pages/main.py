@@ -44,7 +44,7 @@ card_filters = dmc.Group(
     ]
 )
 
-layout = dmc.MantineProvider(
+layout = dash.html.Div(
     [
         dash.html.H1(
             children="Pokémon TCG Pocket Explorer", style={"textAlign": "center"}

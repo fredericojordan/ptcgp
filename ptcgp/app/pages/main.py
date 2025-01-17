@@ -3,7 +3,7 @@ __all__ = ("layout",)
 import dash
 import dash_mantine_components as dmc
 
-from ptcgp import constants, parser
+from ptcgp import constants, parser, objects
 from ptcgp.app.components import Select
 
 dash.register_page(__name__, path="/")
@@ -14,7 +14,7 @@ carousel = dmc.Carousel(
     children=[],
     id="carousel-cards",
     withIndicators=True,
-    slideSize={"base": "100%", "sm": "50%", "md": "33.333333%"},
+    slideSize={"base": "100%", "sm": "50%", "md": "33.333333%", "lg": "20%"},
     slideGap={"base": "sm", "sm": "md"},
     loop=True,
     align="start",
@@ -44,8 +44,10 @@ card_filters = dmc.Group(
     ]
 )
 
+
 layout = dash.html.Div(
     [
+        dash.dcc.Store(id="cards-store", data=[]),
         dash.html.H1(
             children="Pokémon TCG Pocket Explorer", style={"textAlign": "center"}
         ),
@@ -59,6 +61,17 @@ layout = dash.html.Div(
 @dash.callback(
     dash.Output("carousel-cards", "children"),
     dash.Output("card-count", "children"),
+    dash.Input("cards-store", "data"),
+    prevent_initial_call=True,
+)
+def display_cards(data: list[dict]):
+    return [
+        dmc.CarouselSlide(objects.Card.model_validate(c).as_ui()) for c in data
+    ], f"{len(data)} matching cards"
+
+
+@dash.callback(
+    dash.Output("cards-store", "data"),
     dash.Input("select-color", "value"),
     dash.Input("select-rarity", "value"),
     dash.Input("select-card-type", "value"),
@@ -73,7 +86,7 @@ def filter_cards(
     weaknesses: list[str],
     ability: str,
     expansions: list[str],
-):
+) -> list[dict]:
     cards = ALL_CARDS
 
     if color_values:
@@ -92,7 +105,7 @@ def filter_cards(
     if expansions:
         cards = [c for c in cards if c.expansion in expansions]
 
-    return [dmc.CarouselSlide(c.as_ui()) for c in cards], f"{len(cards)} matching cards"
+    return [c.model_dump() for c in cards]
 
 
 dash.clientside_callback(

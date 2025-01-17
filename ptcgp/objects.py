@@ -7,7 +7,9 @@ __all__ = (
 import os
 
 import bs4
+import dash
 import dash_mantine_components as dmc
+import pandas as pd
 import pydantic
 
 from . import constants
@@ -105,6 +107,102 @@ class Card(pydantic.BaseModel):
             max_dmg_value = max(max_dmg_value, atk.dmg)
         return max_dmg_value
 
+    @property
+    def rgb(self) -> str:
+        return {
+            constants.Color.GRASS: "#5b3",
+            constants.Color.FIRE: "#b43",
+            constants.Color.WATER: "#48d",
+            constants.Color.LIGHTNING: "#cc2",
+            constants.Color.PSYCHIC: "#b3b",
+            constants.Color.FIGHTING: "#863",
+            constants.Color.DARKNESS: "#144",
+            constants.Color.METAL: "#999",
+            constants.Color.DRAGON: "#ba3",
+            constants.Color.COLORLESS: "#eed",
+            None: "#ddd",
+        }.get(self.color)
+
+    @property
+    def life_points(self) -> int:
+        if not self.life:
+            return 1
+
+        if self.life >= 150:
+            return 5
+        if self.life >= 110:
+            return 4
+        if self.life >= 80:
+            return 3
+        if self.life >= 60:
+            return 2
+
+        return 1
+
+    @property
+    def dmg_points(self) -> int:
+        if self.max_dmg >= 100:
+            return 5
+        if self.max_dmg >= 70:
+            return 4
+        if self.max_dmg >= 50:
+            return 3
+        if self.max_dmg >= 30:
+            return 2
+
+        return 1
+
+    @property
+    def speed_points(self) -> int:  # TODO: consider stage
+        max_cost = 0
+        for atk in self.attacks:
+            max_cost = max(max_cost, len(atk.cost))
+
+        points = 5 - max_cost
+
+        if self.ability is not None:
+            points += 1
+
+        return points
+
+    @property
+    def rarity_points(self) -> int:
+        if self.rarity in [constants.Rarity.CROWN, constants.Rarity.IMMERSIVE]:
+            return 5
+        if self.rarity in [constants.Rarity.FULL_ART_RARE, constants.Rarity.FULL_ART]:
+            return 4
+        if self.rarity in [constants.Rarity.EX]:
+            return 3
+        if self.rarity in [constants.Rarity.RARE, constants.Rarity.UNCOMMON]:
+            return 2
+
+        return 1
+
+    @property
+    def retreat_points(self) -> int:
+        return 5 - self.retreat_cost if self.retreat_cost else 1
+
+    @property
+    def stats(self) -> pd.DataFrame:
+        return pd.DataFrame(
+            {
+                "r": [
+                    self.life_points,
+                    self.dmg_points,
+                    self.speed_points,
+                    self.rarity_points,
+                    self.retreat_points,
+                ],
+                "theta": [
+                    "Life",
+                    "Damage",
+                    "Speed",
+                    "Rarity",
+                    "Retreat",
+                ],
+            }
+        )
+
     @classmethod
     def get_color(cls, title: list[str]) -> constants.Color | None:
         for member in title:
@@ -191,4 +289,8 @@ class Card(pydantic.BaseModel):
             print(f"wrote {n} to {filepath}")
 
     def as_ui(self):
-        return dmc.Image(src=self.image, alt=self.name, fit="scale-down", h=500)
+        img = dmc.Image(src=self.image, alt=self.name, fit="scale-down", h=500)
+        return dash.html.A(
+            href=f"/card/{self.index_str}",
+            children=[img],
+        )

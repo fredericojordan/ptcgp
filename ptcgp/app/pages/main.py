@@ -56,7 +56,7 @@ layout = dash.html.Div(
         dmc.Center(card_filters),
         carousel,
         dmc.Center(dash.html.H4(id="card-count", children="")),
-        dash.html.Div(id="graph", children=[], style={"display": "none"}),
+        dash.html.Div(id="graph", children=[]),
     ]
 )
 
@@ -89,6 +89,7 @@ def make_graph(data: list[dict]):
             go.Bar(name="Dmg", x=dmg_counts.index, y=dmg_counts.values),
         ],
     )
+    fig.update_layout(paper_bgcolor="#333", template="plotly_dark")
     return dmc.Container(children=[dash.dcc.Graph(figure=fig)])
 
 

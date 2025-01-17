@@ -22,6 +22,19 @@ class Attack(pydantic.BaseModel):
     damage_min: int | None = None
     damage_mult: int | None = None
 
+    @property
+    def dmg(self) -> int:
+        max_dmg_value = 0
+
+        if self.damage and self.damage > max_dmg_value:
+            max_dmg_value = self.damage
+        if self.damage_min and self.damage_min > max_dmg_value:
+            max_dmg_value = self.damage_min
+        if self.damage_mult and self.damage_mult > max_dmg_value:
+            max_dmg_value = self.damage_mult
+
+        return max_dmg_value
+
     @classmethod
     def from_soup(cls, soup: bs4.Tag) -> "Attack":
         atk_parts = soup.find("p", class_="card-text-attack-info").text.split()
@@ -83,6 +96,14 @@ class Card(pydantic.BaseModel):
     @property
     def index_str(self) -> str:
         return f"{self.expansion}_{int(self.id):03}"
+
+    @pydantic.computed_field
+    @property
+    def max_dmg(self) -> int:
+        max_dmg_value = 0
+        for atk in self.attacks:
+            max_dmg_value = max(max_dmg_value, atk.dmg)
+        return max_dmg_value
 
     @classmethod
     def get_color(cls, title: list[str]) -> constants.Color | None:

@@ -2,6 +2,8 @@ __all__ = ("layout",)
 
 import dash
 import dash_mantine_components as dmc
+import pandas as pd
+import plotly.graph_objects as go
 
 from ptcgp import constants, parser, objects
 from ptcgp.app.components import Select
@@ -54,6 +56,7 @@ layout = dash.html.Div(
         dmc.Center(card_filters),
         carousel,
         dmc.Center(dash.html.H4(id="card-count", children="")),
+        dash.html.Div(id="graph", children=[], style={"display": "none"}),
     ]
 )
 
@@ -68,6 +71,25 @@ def display_cards(data: list[dict]):
     return [
         dmc.CarouselSlide(objects.Card.model_validate(c).as_ui()) for c in data
     ], f"{len(data)} matching cards"
+
+
+@dash.callback(
+    dash.Output("graph", "children"),
+    dash.Input("cards-store", "data"),
+    prevent_initial_call=True,
+)
+def make_graph(data: list[dict]):
+    cards = [objects.Card.model_validate(c).model_dump() for c in data]
+    df = pd.DataFrame(cards)
+    life_counts = df.life.value_counts()
+    dmg_counts = df.max_dmg.value_counts()
+    fig = go.Figure(
+        data=[
+            go.Bar(name="Life", x=life_counts.index, y=life_counts.values),
+            go.Bar(name="Dmg", x=dmg_counts.index, y=dmg_counts.values),
+        ],
+    )
+    return dmc.Container(children=[dash.dcc.Graph(figure=fig)])
 
 
 @dash.callback(

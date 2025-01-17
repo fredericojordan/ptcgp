@@ -1,0 +1,24 @@
+{
+  "id": "35",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp",
+  "name": "Charizard",
+  "card_type": "Pokémon",
+  "artist": "takuyoa",
+  "attacks": [
+    {
+      "name": "Fire",
+      "cost": "RRCC",
+      "effect": "Discard 2 [R] Energy from this Pokémon.",
+      "damage": 150,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fire",
+  "life": 150,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

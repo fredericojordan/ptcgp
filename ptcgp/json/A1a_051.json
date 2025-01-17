@@ -1,0 +1,24 @@
+{
+  "id": "51",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp",
+  "name": "Purrloin",
+  "card_type": "Pokémon",
+  "artist": "Kagemaru Himeno",
+  "attacks": [
+    {
+      "name": "Scratch",
+      "cost": "D",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Darkness",
+  "life": 60,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

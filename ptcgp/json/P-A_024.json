@@ -1,0 +1,24 @@
+{
+  "id": "24",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
+  "name": "Magnemite",
+  "card_type": "Pokémon",
+  "artist": "Miki Tanaka",
+  "attacks": [
+    {
+      "name": "Lightning",
+      "cost": "L",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Lightning",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

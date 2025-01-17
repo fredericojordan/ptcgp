@@ -1,0 +1,24 @@
+{
+  "id": "40",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
+  "name": "Arcanine",
+  "card_type": "Pokémon",
+  "artist": "kodama",
+  "attacks": [
+    {
+      "name": "Heat",
+      "cost": "RRC",
+      "effect": "This Pokémon also does 20 damage to itself.",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fire",
+  "life": 130,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

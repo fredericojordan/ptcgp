@@ -1,0 +1,24 @@
+{
+  "id": "115",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp",
+  "name": "Abra",
+  "card_type": "Pokémon",
+  "artist": "Aya Kusube",
+  "attacks": [
+    {
+      "name": "Teleport",
+      "cost": "C",
+      "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 60,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

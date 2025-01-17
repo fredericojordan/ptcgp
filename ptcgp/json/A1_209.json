@@ -1,0 +1,27 @@
+{
+  "id": "209",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp",
+  "name": "Porygon",
+  "card_type": "Pokémon",
+  "artist": "Ayaka Yoshida",
+  "attacks": [
+    {
+      "name": "Sharpen",
+      "cost": "C",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Colorless",
+  "life": 50,
+  "ability": {
+    "name": "Data Scan",
+    "effect": "Once during your turn, you may look at the top card of your deck."
+  },
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

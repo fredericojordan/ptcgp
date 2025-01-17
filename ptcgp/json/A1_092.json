@@ -1,0 +1,24 @@
+{
+  "id": "92",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp",
+  "name": "Snom",
+  "card_type": "Pokémon",
+  "artist": "ryoma uratsuka",
+  "attacks": [
+    {
+      "name": "Ram",
+      "cost": "C",
+      "effect": "",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 50,
+  "ability": null,
+  "weakness": "Metal",
+  "retreat_cost": 1
+}

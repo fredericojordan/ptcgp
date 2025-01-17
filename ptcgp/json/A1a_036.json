@@ -1,0 +1,24 @@
+{
+  "id": "36",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
+  "name": "Flabébé",
+  "card_type": "Pokémon",
+  "artist": "Cona Nitanda",
+  "attacks": [
+    {
+      "name": "Hypnotic",
+      "cost": "P",
+      "effect": "Your opponent's Active Pokémon is now Asleep.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 40,
+  "ability": null,
+  "weakness": "Metal",
+  "retreat_cost": 1
+}

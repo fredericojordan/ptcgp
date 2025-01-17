@@ -1,0 +1,24 @@
+{
+  "id": "21",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp",
+  "name": "Exeggcute",
+  "card_type": "Pokémon",
+  "artist": "kawayoo",
+  "attacks": [
+    {
+      "name": "Seed",
+      "cost": "G",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Grass",
+  "life": 50,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

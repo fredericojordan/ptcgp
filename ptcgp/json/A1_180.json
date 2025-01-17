@@ -1,0 +1,24 @@
+{
+  "id": "180",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
+  "name": "Bisharp",
+  "card_type": "Pokémon",
+  "artist": "Anesaki Dynamic",
+  "attacks": [
+    {
+      "name": "Metal",
+      "cost": "MM",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Metal",
+  "life": 90,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

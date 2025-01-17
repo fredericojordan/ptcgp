@@ -1,0 +1,27 @@
+{
+  "id": "182",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
+  "name": "Melmetal",
+  "card_type": "Pokémon",
+  "artist": "Kouki Saitou",
+  "attacks": [
+    {
+      "name": "Heavy",
+      "cost": "MMMC",
+      "effect": "",
+      "damage": 120,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Metal",
+  "life": 130,
+  "ability": {
+    "name": "Hard Coat",
+    "effect": "This Pokémon takes -20 damage from attacks."
+  },
+  "weakness": "Fire",
+  "retreat_cost": 3
+}

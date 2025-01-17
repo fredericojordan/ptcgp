@@ -1,0 +1,32 @@
+{
+  "id": "251",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp",
+  "name": "Venusaur ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Razor",
+      "cost": "GCC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Giant",
+      "cost": "GGCC",
+      "effect": "Heal 30 damage from this Pokémon.",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Grass",
+  "life": 190,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 3
+}

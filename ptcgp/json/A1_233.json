@@ -1,0 +1,24 @@
+{
+  "id": "233",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp",
+  "name": "Gyarados",
+  "card_type": "Pokémon",
+  "artist": "Nurikabe",
+  "attacks": [
+    {
+      "name": "Hyper",
+      "cost": "WWWW",
+      "effect": "Discard a random Energy from your opponent's Active Pokémon.",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Water",
+  "life": 150,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 4
+}

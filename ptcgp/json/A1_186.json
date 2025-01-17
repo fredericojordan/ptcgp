@@ -1,0 +1,24 @@
+{
+  "id": "186",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp",
+  "name": "Pidgey",
+  "card_type": "Pokémon",
+  "artist": "Scav",
+  "attacks": [
+    {
+      "name": "Gust",
+      "cost": "C",
+      "effect": "",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 60,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

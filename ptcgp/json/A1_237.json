@@ -1,0 +1,24 @@
+{
+  "id": "237",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp",
+  "name": "Slowpoke",
+  "card_type": "Pokémon",
+  "artist": "Miki Tanaka",
+  "attacks": [
+    {
+      "name": "Tail",
+      "cost": "PC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Psychic",
+  "life": 70,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

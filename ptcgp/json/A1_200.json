@@ -1,0 +1,24 @@
+{
+  "id": "200",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp",
+  "name": "Dodrio",
+  "card_type": "Pokémon",
+  "artist": "Miki Tanaka",
+  "attacks": [
+    {
+      "name": "Drill",
+      "cost": "C",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Colorless",
+  "life": 80,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 0
+}

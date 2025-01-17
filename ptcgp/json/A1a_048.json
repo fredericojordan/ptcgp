@@ -1,0 +1,24 @@
+{
+  "id": "48",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
+  "name": "Stonjourner",
+  "card_type": "Pokémon",
+  "artist": "Teeziro",
+  "attacks": [
+    {
+      "name": "Mega",
+      "cost": "FFF",
+      "effect": "",
+      "damage": 90,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 120,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 3
+}

@@ -1,0 +1,24 @@
+{
+  "id": "60",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp",
+  "name": "Tauros",
+  "card_type": "Pokémon",
+  "artist": "KEIICHIRO ITO",
+  "attacks": [
+    {
+      "name": "Fighting",
+      "cost": "CCC",
+      "effect": "If your opponent's Active Pokémon is a Pokémon  more damage.",
+      "damage": null,
+      "damage_min": 40,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Colorless",
+  "life": 100,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

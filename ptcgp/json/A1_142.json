@@ -1,0 +1,24 @@
+{
+  "id": "142",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp",
+  "name": "Primeape",
+  "card_type": "Pokémon",
+  "artist": "Kagemaru Himeno",
+  "attacks": [
+    {
+      "name": "Fight",
+      "cost": "FF",
+      "effect": "If this Pokémon has damage on it, this attack does 60 more damage.",
+      "damage": null,
+      "damage_min": 40,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 90,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 1
+}

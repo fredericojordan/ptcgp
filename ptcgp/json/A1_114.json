@@ -1,0 +1,24 @@
+{
+  "id": "114",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp",
+  "name": "Clefable",
+  "card_type": "Pokémon",
+  "artist": "Sanosuke Sakuma",
+  "attacks": [
+    {
+      "name": "Magical",
+      "cost": "P",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 100,
+  "ability": null,
+  "weakness": "Metal",
+  "retreat_cost": 1
+}

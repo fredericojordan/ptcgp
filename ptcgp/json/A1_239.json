@@ -1,0 +1,24 @@
+{
+  "id": "239",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp",
+  "name": "Cubone",
+  "card_type": "Pokémon",
+  "artist": "Teeziro",
+  "attacks": [
+    {
+      "name": "Growl",
+      "cost": "C",
+      "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Fighting",
+  "life": 60,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

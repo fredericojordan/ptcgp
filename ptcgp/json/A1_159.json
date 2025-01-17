@@ -1,0 +1,24 @@
+{
+  "id": "159",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp",
+  "name": "Kabutops",
+  "card_type": "Pokémon",
+  "artist": "Shin Nagasawa",
+  "attacks": [
+    {
+      "name": "Leech",
+      "cost": "F",
+      "effect": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fighting",
+  "life": 140,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

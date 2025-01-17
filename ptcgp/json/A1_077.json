@@ -1,0 +1,24 @@
+{
+  "id": "77",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_077_EN.webp",
+  "name": "Magikarp",
+  "card_type": "Pokémon",
+  "artist": "Sekio",
+  "attacks": [
+    {
+      "name": "Splash",
+      "cost": "C",
+      "effect": "",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 30,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

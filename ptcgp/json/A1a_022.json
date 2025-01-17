@@ -1,0 +1,24 @@
+{
+  "id": "22",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
+  "name": "Chewtle",
+  "card_type": "Pokémon",
+  "artist": "Taiga Kayama",
+  "attacks": [
+    {
+      "name": "Bite",
+      "cost": "WC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 80,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

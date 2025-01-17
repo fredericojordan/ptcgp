@@ -1,0 +1,24 @@
+{
+  "id": "194",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp",
+  "name": "Wigglytuff",
+  "card_type": "Pokémon",
+  "artist": "Atsuko Nishida",
+  "attacks": [
+    {
+      "name": "Hyper",
+      "cost": "CC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 100,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

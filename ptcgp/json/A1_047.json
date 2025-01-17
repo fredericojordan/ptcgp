@@ -1,0 +1,32 @@
+{
+  "id": "47",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp",
+  "name": "Moltres ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA Tsuji",
+  "attacks": [
+    {
+      "name": "Inferno",
+      "cost": "R",
+      "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Heat",
+      "cost": "RCC",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊◊",
+  "color": "Fire",
+  "life": 140,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

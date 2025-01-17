@@ -1,0 +1,24 @@
+{
+  "id": "244",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp",
+  "name": "Dragonite",
+  "card_type": "Pokémon",
+  "artist": "Gemi",
+  "attacks": [
+    {
+      "name": "Draco",
+      "cost": "WLCC",
+      "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Dragon",
+  "life": 160,
+  "ability": null,
+  "weakness": null,
+  "retreat_cost": 3
+}

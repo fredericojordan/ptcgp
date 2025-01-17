@@ -1,0 +1,24 @@
+{
+  "id": "49",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp",
+  "name": "Koffing",
+  "card_type": "Pokémon",
+  "artist": "Naoyo Kimura",
+  "attacks": [
+    {
+      "name": "Division",
+      "cost": "D",
+      "effect": "Put 1 random Koffing from your deck onto your Bench.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Darkness",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

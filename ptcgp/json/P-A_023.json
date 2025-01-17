@@ -1,0 +1,24 @@
+{
+  "id": "23",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
+  "name": "Bulbasaur",
+  "card_type": "Pokémon",
+  "artist": "Kouki Saitou",
+  "attacks": [
+    {
+      "name": "Vine",
+      "cost": "GC",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Grass",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

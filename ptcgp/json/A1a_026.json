@@ -1,0 +1,24 @@
+{
+  "id": "26",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp",
+  "name": "Raichu",
+  "card_type": "Pokémon",
+  "artist": "hncl",
+  "attacks": [
+    {
+      "name": "Gigashock",
+      "cost": "LLL",
+      "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Lightning",
+  "life": 120,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

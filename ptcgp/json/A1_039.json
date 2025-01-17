@@ -1,0 +1,24 @@
+{
+  "id": "39",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp",
+  "name": "Growlithe",
+  "card_type": "Pokémon",
+  "artist": "Mizue",
+  "attacks": [
+    {
+      "name": "Bite",
+      "cost": "CC",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fire",
+  "life": 70,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

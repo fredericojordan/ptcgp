@@ -1,0 +1,24 @@
+{
+  "id": "57",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp",
+  "name": "Psyduck",
+  "card_type": "Pokémon",
+  "artist": "Shibuzoh.",
+  "attacks": [
+    {
+      "name": "Headache",
+      "cost": "C",
+      "effect": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 60,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

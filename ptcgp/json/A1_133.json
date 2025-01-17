@@ -1,0 +1,24 @@
+{
+  "id": "133",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp",
+  "name": "Woobat",
+  "card_type": "Pokémon",
+  "artist": "MAHOU",
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "cost": "C",
+      "effect": "",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 60,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

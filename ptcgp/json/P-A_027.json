@@ -1,0 +1,24 @@
+{
+  "id": "27",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
+  "name": "Snivy",
+  "card_type": "Pokémon",
+  "artist": "Yoriyuki Ikegami",
+  "attacks": [
+    {
+      "name": "Tackle",
+      "cost": "G",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Grass",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

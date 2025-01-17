@@ -1,0 +1,32 @@
+{
+  "id": "282",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_282_EN.webp",
+  "name": "Mewtwo ex",
+  "card_type": "Pokémon",
+  "artist": "Nurikabe",
+  "attacks": [
+    {
+      "name": "Psychic",
+      "cost": "PC",
+      "effect": "",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Psydrive",
+      "cost": "PPCC",
+      "effect": "Discard 2 [P] Energy from this Pokémon.",
+      "damage": 150,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆☆☆",
+  "color": "Psychic",
+  "life": 150,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

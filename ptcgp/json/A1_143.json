@@ -1,0 +1,24 @@
+{
+  "id": "143",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp",
+  "name": "Machop",
+  "card_type": "Pokémon",
+  "artist": "Kyoko Umemoto",
+  "attacks": [
+    {
+      "name": "Knuckle",
+      "cost": "F",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fighting",
+  "life": 70,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": "145",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
+  "name": "Machamp",
+  "card_type": "Pokémon",
+  "artist": "Hitoshi Ariga",
+  "attacks": [
+    {
+      "name": "Seismic",
+      "cost": "FFF",
+      "effect": "",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fighting",
+  "life": 150,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 3
+}

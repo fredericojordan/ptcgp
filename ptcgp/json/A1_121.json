@@ -1,0 +1,24 @@
+{
+  "id": "121",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp",
+  "name": "Haunter",
+  "card_type": "Pokémon",
+  "artist": "Nisata Niso",
+  "attacks": [
+    {
+      "name": "Will-O-Wisp",
+      "cost": "P",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 80,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

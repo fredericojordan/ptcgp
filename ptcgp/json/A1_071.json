@@ -1,0 +1,24 @@
+{
+  "id": "71",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp",
+  "name": "Seadra",
+  "card_type": "Pokémon",
+  "artist": "Sanosuke Sakuma",
+  "attacks": [
+    {
+      "name": "Water",
+      "cost": "WWW",
+      "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 70,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

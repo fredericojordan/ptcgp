@@ -1,0 +1,24 @@
+{
+  "id": "16",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp",
+  "name": "Salazzle",
+  "card_type": "Pokémon",
+  "artist": "Mitsuhiro Arita",
+  "attacks": [
+    {
+      "name": "Poison",
+      "cost": "R",
+      "effect": "Your opponent's Active Pokémon is now Poisoned.",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fire",
+  "life": 80,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

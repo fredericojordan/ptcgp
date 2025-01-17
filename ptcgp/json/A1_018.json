@@ -1,0 +1,24 @@
+{
+  "id": "18",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp",
+  "name": "Bellsprout",
+  "card_type": "Pokémon",
+  "artist": "HYOGONOSUKE",
+  "attacks": [
+    {
+      "name": "Vine",
+      "cost": "G",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Grass",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

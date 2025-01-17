@@ -1,0 +1,24 @@
+{
+  "id": "247",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp",
+  "name": "Ditto",
+  "card_type": "Pokémon",
+  "artist": "Jerky",
+  "attacks": [
+    {
+      "name": "Copy",
+      "cost": "C",
+      "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Colorless",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

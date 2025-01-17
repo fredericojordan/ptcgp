@@ -1,0 +1,24 @@
+{
+  "id": "127",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp",
+  "name": "Jynx",
+  "card_type": "Pokémon",
+  "artist": "Oswaldo KATO",
+  "attacks": [
+    {
+      "name": "Psychic",
+      "cost": "PC",
+      "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+      "damage": null,
+      "damage_min": 30,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 80,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

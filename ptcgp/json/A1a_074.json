@@ -1,0 +1,24 @@
+{
+  "id": "74",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp",
+  "name": "Marshadow",
+  "card_type": "Pokémon",
+  "artist": "OKACHEKE",
+  "attacks": [
+    {
+      "name": "Revenge",
+      "cost": "FC",
+      "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+      "damage": null,
+      "damage_min": 40,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Fighting",
+  "life": 80,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "41",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp",
+  "name": "Arcanine ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA Saito",
+  "attacks": [
+    {
+      "name": "Inferno",
+      "cost": "RRC",
+      "effect": "This Pokémon also does 20 damage to itself.",
+      "damage": 120,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊◊",
+  "color": "Fire",
+  "life": 150,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

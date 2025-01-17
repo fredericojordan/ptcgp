@@ -1,0 +1,24 @@
+{
+  "id": "147",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp",
+  "name": "Geodude",
+  "card_type": "Pokémon",
+  "artist": "Kouki Saitou",
+  "attacks": [
+    {
+      "name": "Tackle",
+      "cost": "F",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fighting",
+  "life": 70,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 2
+}

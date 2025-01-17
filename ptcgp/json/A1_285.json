@@ -1,0 +1,24 @@
+{
+  "id": "285",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp",
+  "name": "Pikachu ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Circle",
+      "cost": "LL",
+      "effect": "This attack does 30 damage for each of your Benched [L] Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 30
+    }
+  ],
+  "rarity": "🜲",
+  "color": "Lightning",
+  "life": 120,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

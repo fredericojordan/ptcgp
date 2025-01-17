@@ -1,0 +1,24 @@
+{
+  "id": "10",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
+  "name": "Mewtwo",
+  "card_type": "Pokémon",
+  "artist": "Krgc",
+  "attacks": [
+    {
+      "name": "Power",
+      "cost": "PPCC",
+      "effect": "Discard 2 [P] Energy from this Pokémon.",
+      "damage": 120,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Psychic",
+  "life": 120,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

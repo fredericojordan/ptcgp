@@ -1,0 +1,27 @@
+{
+  "id": "61",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp",
+  "name": "Poliwrath",
+  "card_type": "Pokémon",
+  "artist": "Akira Komayama",
+  "attacks": [
+    {
+      "name": "Mega",
+      "cost": "WCC",
+      "effect": "",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Water",
+  "life": 150,
+  "ability": {
+    "name": "Counterattack",
+    "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the attacking Pokémon."
+  },
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

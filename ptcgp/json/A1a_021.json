@@ -1,0 +1,24 @@
+{
+  "id": "21",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp",
+  "name": "Lumineon",
+  "card_type": "Pokémon",
+  "artist": "Sekio",
+  "attacks": [
+    {
+      "name": "Aqua",
+      "cost": "WW",
+      "effect": "This attack does 50 damage to 1 of your opponent's Benched Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 80,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 0
+}

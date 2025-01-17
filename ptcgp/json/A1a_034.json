@@ -1,0 +1,24 @@
+{
+  "id": "34",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
+  "name": "Elgyem",
+  "card_type": "Pokémon",
+  "artist": "Kouki Saitou",
+  "attacks": [
+    {
+      "name": "Headbutt",
+      "cost": "P",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 60,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

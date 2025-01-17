@@ -1,0 +1,24 @@
+{
+  "id": "184",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp",
+  "name": "Dragonair",
+  "card_type": "Pokémon",
+  "artist": "kirisAki",
+  "attacks": [
+    {
+      "name": "Tail",
+      "cost": "WLC",
+      "effect": "",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Dragon",
+  "life": 100,
+  "ability": null,
+  "weakness": null,
+  "retreat_cost": 1
+}

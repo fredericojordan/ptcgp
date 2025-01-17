@@ -1,0 +1,24 @@
+{
+  "id": "109",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp",
+  "name": "Eelektross",
+  "card_type": "Pokémon",
+  "artist": "hatachu",
+  "attacks": [
+    {
+      "name": "Thunder",
+      "cost": "LLC",
+      "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Lightning",
+  "life": 140,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 3
+}

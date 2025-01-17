@@ -1,0 +1,24 @@
+{
+  "id": "24",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp",
+  "name": "Cramorant",
+  "card_type": "Pokémon",
+  "artist": "Jerky",
+  "attacks": [
+    {
+      "name": "Dive",
+      "cost": "WWC",
+      "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 80,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

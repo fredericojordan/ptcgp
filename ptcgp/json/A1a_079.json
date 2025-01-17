@@ -1,0 +1,24 @@
+{
+  "id": "79",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
+  "name": "Pidgeot ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Scattering",
+      "cost": "CCC",
+      "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+      "damage": null,
+      "damage_min": 80,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Colorless",
+  "life": 170,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

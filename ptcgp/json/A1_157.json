@@ -1,0 +1,24 @@
+{
+  "id": "157",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp",
+  "name": "Rhydon",
+  "card_type": "Pokémon",
+  "artist": "Masakazu Fukuda",
+  "attacks": [
+    {
+      "name": "Horn",
+      "cost": "FFFC",
+      "effect": "",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 120,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 4
+}

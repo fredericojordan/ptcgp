@@ -1,0 +1,24 @@
+{
+  "id": "65",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
+  "name": "Dewgong",
+  "card_type": "Pokémon",
+  "artist": "Kanako Eo",
+  "attacks": [
+    {
+      "name": "Surf",
+      "cost": "WWW",
+      "effect": "",
+      "damage": 90,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 120,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 3
+}

@@ -1,0 +1,24 @@
+{
+  "id": "20",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp",
+  "name": "Finneon",
+  "card_type": "Pokémon",
+  "artist": "sui",
+  "attacks": [
+    {
+      "name": "Water",
+      "cost": "W",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 60,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

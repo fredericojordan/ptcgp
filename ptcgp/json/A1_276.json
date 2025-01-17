@@ -1,0 +1,32 @@
+{
+  "id": "276",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp",
+  "name": "Zapdos ex",
+  "card_type": "Pokémon",
+  "artist": "GOSSAN",
+  "attacks": [
+    {
+      "name": "Peck",
+      "cost": "L",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Thundering",
+      "cost": "LLL",
+      "effect": "Flip 4 coins. This attack does 50 damage for each heads.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 50
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Lightning",
+  "life": 130,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

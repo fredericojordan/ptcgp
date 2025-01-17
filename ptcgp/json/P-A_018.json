@@ -1,0 +1,24 @@
+{
+  "id": "18",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
+  "name": "Venusaur",
+  "card_type": "Pokémon",
+  "artist": "Kuroimori",
+  "attacks": [
+    {
+      "name": "Mega",
+      "cost": "GGCC",
+      "effect": "Heal 30 damage from this Pokémon.",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Grass",
+  "life": 160,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 3
+}

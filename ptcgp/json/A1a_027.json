@@ -1,0 +1,24 @@
+{
+  "id": "27",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
+  "name": "Electabuzz",
+  "card_type": "Pokémon",
+  "artist": "Naoyo Kimura",
+  "attacks": [
+    {
+      "name": "Thunder",
+      "cost": "LL",
+      "effect": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Lightning",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

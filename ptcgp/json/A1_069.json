@@ -1,0 +1,24 @@
+{
+  "id": "69",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp",
+  "name": "Kingler",
+  "card_type": "Pokémon",
+  "artist": "Shigenori Negishi",
+  "attacks": [
+    {
+      "name": "KO",
+      "cost": "WWC",
+      "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
+      "damage": null,
+      "damage_min": 80,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 120,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 3
+}

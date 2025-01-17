@@ -1,0 +1,27 @@
+{
+  "id": "125",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
+  "name": "Hypno",
+  "card_type": "Pokémon",
+  "artist": "Shigenori Negishi",
+  "attacks": [
+    {
+      "name": "Psypunch",
+      "cost": "PPC",
+      "effect": "",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Psychic",
+  "life": 100,
+  "ability": {
+    "name": "Sleep Pendulum",
+    "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+  },
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

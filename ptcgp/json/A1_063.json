@@ -1,0 +1,24 @@
+{
+  "id": "63",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp",
+  "name": "Tentacruel",
+  "card_type": "Pokémon",
+  "artist": "kodama",
+  "attacks": [
+    {
+      "name": "Poison",
+      "cost": "WC",
+      "effect": "Your opponent's Active Pokémon is now Poisoned.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 110,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

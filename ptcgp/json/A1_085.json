@@ -1,0 +1,24 @@
+{
+  "id": "85",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_085_EN.webp",
+  "name": "Ducklett",
+  "card_type": "Pokémon",
+  "artist": "Yumi",
+  "attacks": [
+    {
+      "name": "Flap",
+      "cost": "CC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 50,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

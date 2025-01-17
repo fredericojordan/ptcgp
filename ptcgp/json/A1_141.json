@@ -1,0 +1,24 @@
+{
+  "id": "141",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp",
+  "name": "Mankey",
+  "card_type": "Pokémon",
+  "artist": "Kanako Eo",
+  "attacks": [
+    {
+      "name": "Low",
+      "cost": "F",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fighting",
+  "life": 60,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 1
+}

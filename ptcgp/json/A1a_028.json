@@ -1,0 +1,24 @@
+{
+  "id": "28",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp",
+  "name": "Joltik",
+  "card_type": "Pokémon",
+  "artist": "MINAMINAMI Take",
+  "attacks": [
+    {
+      "name": "Bug",
+      "cost": "L",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Lightning",
+  "life": 40,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

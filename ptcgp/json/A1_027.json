@@ -1,0 +1,24 @@
+{
+  "id": "27",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp",
+  "name": "Cottonee",
+  "card_type": "Pokémon",
+  "artist": "Kanako Eo",
+  "attacks": [
+    {
+      "name": "Attach",
+      "cost": "C",
+      "effect": "",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Grass",
+  "life": 50,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

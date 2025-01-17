@@ -1,0 +1,24 @@
+{
+  "id": "165",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp",
+  "name": "Arbok",
+  "card_type": "Pokémon",
+  "artist": "Naoki Saito",
+  "attacks": [
+    {
+      "name": "Corner",
+      "cost": "DC",
+      "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Darkness",
+  "life": 100,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

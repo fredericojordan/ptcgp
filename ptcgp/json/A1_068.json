@@ -1,0 +1,24 @@
+{
+  "id": "68",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp",
+  "name": "Krabby",
+  "card_type": "Pokémon",
+  "artist": "Tomokazu Komiya",
+  "attacks": [
+    {
+      "name": "Vise",
+      "cost": "WC",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 70,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

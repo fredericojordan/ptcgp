@@ -1,0 +1,24 @@
+{
+  "id": "103",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp",
+  "name": "Zapdos",
+  "card_type": "Pokémon",
+  "artist": "Hitoshi Ariga",
+  "attacks": [
+    {
+      "name": "Raging",
+      "cost": "LLC",
+      "effect": "This attack also does 30 damage to 1 of your Benched Pokémon.",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Lightning",
+  "life": 100,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

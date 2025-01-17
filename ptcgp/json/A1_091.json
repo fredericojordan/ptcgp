@@ -1,0 +1,24 @@
+{
+  "id": "91",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
+  "name": "Bruxish",
+  "card_type": "Pokémon",
+  "artist": "Mizue",
+  "attacks": [
+    {
+      "name": "Second",
+      "cost": "WC",
+      "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",
+      "damage": null,
+      "damage_min": 10,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 90,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

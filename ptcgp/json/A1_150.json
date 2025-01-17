@@ -1,0 +1,24 @@
+{
+  "id": "150",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp",
+  "name": "Onix",
+  "card_type": "Pokémon",
+  "artist": "otumami",
+  "attacks": [
+    {
+      "name": "Land",
+      "cost": "FFF",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 110,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 4
+}

@@ -1,0 +1,24 @@
+{
+  "id": "28",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp",
+  "name": "Whimsicott",
+  "card_type": "Pokémon",
+  "artist": "Atsuko Nishida",
+  "attacks": [
+    {
+      "name": "Rolling",
+      "cost": "C",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 80,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "23",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
+  "name": "Drednaw",
+  "card_type": "Pokémon",
+  "artist": "nisimono",
+  "attacks": [
+    {
+      "name": "Crunch",
+      "cost": "WWW",
+      "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 130,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 3
+}

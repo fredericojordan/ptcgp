@@ -1,0 +1,24 @@
+{
+  "id": "17",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp",
+  "name": "Magikarp",
+  "card_type": "Pokémon",
+  "artist": "Mitsuhiro Arita",
+  "attacks": [
+    {
+      "name": "Leap",
+      "cost": "W",
+      "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 30,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

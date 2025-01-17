@@ -1,0 +1,24 @@
+{
+  "id": "75",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp",
+  "name": "Celebi ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Powerful",
+      "cost": "GC",
+      "effect": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 50
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Grass",
+  "life": 130,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

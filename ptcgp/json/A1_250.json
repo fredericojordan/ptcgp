@@ -1,0 +1,24 @@
+{
+  "id": "250",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp",
+  "name": "Snorlax",
+  "card_type": "Pokémon",
+  "artist": "HYOGONOSUKE",
+  "attacks": [
+    {
+      "name": "Rollout",
+      "cost": "CCCC",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Colorless",
+  "life": 150,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 4
+}

@@ -1,0 +1,24 @@
+{
+  "id": "44",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
+  "name": "Graveler",
+  "card_type": "Pokémon",
+  "artist": "Ayaka Yoshida",
+  "attacks": [
+    {
+      "name": "Lunge",
+      "cost": "FC",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 100,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 3
+}

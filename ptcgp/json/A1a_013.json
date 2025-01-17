@@ -1,0 +1,24 @@
+{
+  "id": "13",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp",
+  "name": "Larvesta",
+  "card_type": "Pokémon",
+  "artist": "kawayoo",
+  "attacks": [
+    {
+      "name": "Combustion",
+      "cost": "RC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fire",
+  "life": 80,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

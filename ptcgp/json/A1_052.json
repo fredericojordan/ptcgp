@@ -1,0 +1,24 @@
+{
+  "id": "52",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp",
+  "name": "Centiskorch",
+  "card_type": "Pokémon",
+  "artist": "GOSSAN",
+  "attacks": [
+    {
+      "name": "Fire",
+      "cost": "RCCC",
+      "effect": "Discard a [R] Energy from this Pokémon.",
+      "damage": 130,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fire",
+  "life": 130,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 3
+}

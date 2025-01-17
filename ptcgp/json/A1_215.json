@@ -1,0 +1,24 @@
+{
+  "id": "215",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp",
+  "name": "Dubwool",
+  "card_type": "Pokémon",
+  "artist": "saino misaki",
+  "attacks": [
+    {
+      "name": "Rolling",
+      "cost": "CCC",
+      "effect": "",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 120,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

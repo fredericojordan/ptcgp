@@ -1,0 +1,24 @@
+{
+  "id": "37",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp",
+  "name": "Vulpix",
+  "card_type": "Pokémon",
+  "artist": "Toshinao Aoki",
+  "attacks": [
+    {
+      "name": "Tail",
+      "cost": "C",
+      "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fire",
+  "life": 50,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "12",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
+  "name": "Meowth",
+  "card_type": "Pokémon",
+  "artist": "Shigenori Negishi",
+  "attacks": [
+    {
+      "name": "Pay",
+      "cost": "C",
+      "effect": "Draw 1 card.",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Colorless",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

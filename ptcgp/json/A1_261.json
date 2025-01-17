@@ -1,0 +1,27 @@
+{
+  "id": "261",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_261_EN.webp",
+  "name": "Gengar ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Spooky",
+      "cost": "PPP",
+      "effect": "",
+      "damage": 100,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Psychic",
+  "life": 170,
+  "ability": {
+    "name": "Shadowy Spellbind",
+    "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+  },
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

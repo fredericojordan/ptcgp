@@ -1,0 +1,24 @@
+{
+  "id": "25",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp",
+  "name": "Pikachu",
+  "card_type": "Pokémon",
+  "artist": "Naoyo Kimura",
+  "attacks": [
+    {
+      "name": "Circle",
+      "cost": "L",
+      "effect": "This attack does 10 damage for each of your Benched [L] Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 10
+    }
+  ],
+  "rarity": "◊",
+  "color": "Lightning",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

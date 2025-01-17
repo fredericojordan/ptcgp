@@ -1,0 +1,24 @@
+{
+  "id": "181",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp",
+  "name": "Meltan",
+  "card_type": "Pokémon",
+  "artist": "Shin Nagasawa",
+  "attacks": [
+    {
+      "name": "Amass",
+      "cost": "M",
+      "effect": "Take 1 [M] Energy from your Energy Zone and attach it to this Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Metal",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

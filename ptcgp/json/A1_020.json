@@ -1,0 +1,27 @@
+{
+  "id": "20",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp",
+  "name": "Victreebel",
+  "card_type": "Pokémon",
+  "artist": "Sumiyoshi Kizuki",
+  "attacks": [
+    {
+      "name": "Vine",
+      "cost": "GC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Grass",
+  "life": 140,
+  "ability": {
+    "name": "Fragrance Trap",
+    "effect": "If this Pokémon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot."
+  },
+  "weakness": "Fire",
+  "retreat_cost": 2
+}

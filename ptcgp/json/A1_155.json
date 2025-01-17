@@ -1,0 +1,24 @@
+{
+  "id": "155",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp",
+  "name": "Hitmonchan",
+  "card_type": "Pokémon",
+  "artist": "Ken Sugimori",
+  "attacks": [
+    {
+      "name": "Jab",
+      "cost": "F",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fighting",
+  "life": 80,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 1
+}

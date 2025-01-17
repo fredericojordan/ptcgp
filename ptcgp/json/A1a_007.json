@@ -1,0 +1,24 @@
+{
+  "id": "7",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp",
+  "name": "Morelull",
+  "card_type": "Pokémon",
+  "artist": "Saya Tsuruta",
+  "attacks": [
+    {
+      "name": "Ram",
+      "cost": "G",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Grass",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

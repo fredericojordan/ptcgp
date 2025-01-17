@@ -1,0 +1,24 @@
+{
+  "id": "41",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp",
+  "name": "Mankey",
+  "card_type": "Pokémon",
+  "artist": "Akira Komayama",
+  "attacks": [
+    {
+      "name": "Focus",
+      "cost": "F",
+      "effect": "Flip a coin. If tails, this attack does nothing.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fighting",
+  "life": 50,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 1
+}

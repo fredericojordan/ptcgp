@@ -1,0 +1,24 @@
+{
+  "id": "134",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
+  "name": "Swoobat",
+  "card_type": "Pokémon",
+  "artist": "Masakazu Fukuda",
+  "attacks": [
+    {
+      "name": "Heart",
+      "cost": "PC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 90,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

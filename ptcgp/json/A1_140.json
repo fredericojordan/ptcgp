@@ -1,0 +1,24 @@
+{
+  "id": "140",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp",
+  "name": "Dugtrio",
+  "card_type": "Pokémon",
+  "artist": "Akira Komayama",
+  "attacks": [
+    {
+      "name": "Dig",
+      "cost": "F",
+      "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 70,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

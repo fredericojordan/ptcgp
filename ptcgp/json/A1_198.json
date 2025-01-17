@@ -1,0 +1,24 @@
+{
+  "id": "198",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
+  "name": "Farfetch'd",
+  "card_type": "Pokémon",
+  "artist": "Miki Tanaka",
+  "attacks": [
+    {
+      "name": "Leek",
+      "cost": "C",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 60,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

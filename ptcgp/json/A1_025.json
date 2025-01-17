@@ -1,0 +1,24 @@
+{
+  "id": "25",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp",
+  "name": "Scyther",
+  "card_type": "Pokémon",
+  "artist": "Hasuno",
+  "attacks": [
+    {
+      "name": "Sharp",
+      "cost": "G",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Grass",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "90",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp",
+  "name": "Pyukumuku",
+  "card_type": "Pokémon",
+  "artist": "OOYAMA",
+  "attacks": [
+    {
+      "name": "Rain",
+      "cost": "W",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 70,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

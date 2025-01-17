@@ -1,0 +1,24 @@
+{
+  "id": "33",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp",
+  "name": "Sigilyph",
+  "card_type": "Pokémon",
+  "artist": "Shigenori Negishi",
+  "attacks": [
+    {
+      "name": "Spike",
+      "cost": "P",
+      "effect": "Draw a card.",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 80,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

@@ -1,0 +1,24 @@
+{
+  "id": "116",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp",
+  "name": "Kadabra",
+  "card_type": "Pokémon",
+  "artist": "Ken Sugimori",
+  "attacks": [
+    {
+      "name": "Super",
+      "cost": "PCC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 80,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

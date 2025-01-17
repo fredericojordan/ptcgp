@@ -1,0 +1,24 @@
+{
+  "id": "43",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp",
+  "name": "Rapidash",
+  "card_type": "Pokémon",
+  "artist": "Misa Tsutsui",
+  "attacks": [
+    {
+      "name": "Fire",
+      "cost": "R",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fire",
+  "life": 100,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

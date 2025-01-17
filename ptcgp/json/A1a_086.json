@@ -1,0 +1,32 @@
+{
+  "id": "86",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp",
+  "name": "Mew ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Psyshot",
+      "cost": "P",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Genome",
+      "cost": "CCC",
+      "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "🜲",
+  "color": "Psychic",
+  "life": 130,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

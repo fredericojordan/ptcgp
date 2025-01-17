@@ -1,0 +1,24 @@
+{
+  "id": "48",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_048_EN.webp",
+  "name": "Heatmor",
+  "card_type": "Pokémon",
+  "artist": "Suwama Chiaki",
+  "attacks": [
+    {
+      "name": "Combustion",
+      "cost": "R",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fire",
+  "life": 80,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

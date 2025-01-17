@@ -1,0 +1,24 @@
+{
+  "id": "46",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp",
+  "name": "Moltres",
+  "card_type": "Pokémon",
+  "artist": "Hitoshi Ariga",
+  "attacks": [
+    {
+      "name": "Sky",
+      "cost": "RCC",
+      "effect": "Flip a coin. If tails, this attack does nothing.",
+      "damage": 130,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fire",
+  "life": 100,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

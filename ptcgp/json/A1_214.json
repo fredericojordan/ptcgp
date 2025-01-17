@@ -1,0 +1,24 @@
+{
+  "id": "214",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp",
+  "name": "Wooloo",
+  "card_type": "Pokémon",
+  "artist": "Yoriyuki Ikegami",
+  "attacks": [
+    {
+      "name": "Tackle",
+      "cost": "CC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

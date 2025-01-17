@@ -1,0 +1,24 @@
+{
+  "id": "183",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp",
+  "name": "Dratini",
+  "card_type": "Pokémon",
+  "artist": "Ayaka Yoshida",
+  "attacks": [
+    {
+      "name": "Ram",
+      "cost": "WL",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Dragon",
+  "life": 70,
+  "ability": null,
+  "weakness": null,
+  "retreat_cost": 1
+}

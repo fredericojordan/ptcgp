@@ -1,0 +1,24 @@
+{
+  "id": "80",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp",
+  "name": "Vaporeon",
+  "card_type": "Pokémon",
+  "artist": "Kagemaru Himeno",
+  "attacks": [
+    {
+      "name": "Bubble",
+      "cost": "WCC",
+      "effect": "Heal 30 damage from this Pokémon.",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Water",
+  "life": 130,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

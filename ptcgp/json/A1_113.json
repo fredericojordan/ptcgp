@@ -1,0 +1,24 @@
+{
+  "id": "113",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp",
+  "name": "Clefairy",
+  "card_type": "Pokémon",
+  "artist": "kirisAki",
+  "attacks": [
+    {
+      "name": "Slap",
+      "cost": "P",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 60,
+  "ability": null,
+  "weakness": "Metal",
+  "retreat_cost": 1
+}

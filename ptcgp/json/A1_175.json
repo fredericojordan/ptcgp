@@ -1,0 +1,24 @@
+{
+  "id": "175",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp",
+  "name": "Muk",
+  "card_type": "Pokémon",
+  "artist": "Hajime Kusajima",
+  "attacks": [
+    {
+      "name": "Venoshock",
+      "cost": "DDC",
+      "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",
+      "damage": null,
+      "damage_min": 70,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Darkness",
+  "life": 130,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 3
+}

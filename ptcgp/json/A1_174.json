@@ -1,0 +1,24 @@
+{
+  "id": "174",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp",
+  "name": "Grimer",
+  "card_type": "Pokémon",
+  "artist": "Pani Kobayashi",
+  "attacks": [
+    {
+      "name": "Poison",
+      "cost": "D",
+      "effect": "Your opponent's Active Pokémon is now Poisoned.",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Darkness",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 3
+}

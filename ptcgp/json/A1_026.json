@@ -1,0 +1,24 @@
+{
+  "id": "26",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp",
+  "name": "Pinsir",
+  "card_type": "Pokémon",
+  "artist": "Eri Yamaki",
+  "attacks": [
+    {
+      "name": "Double",
+      "cost": "GG",
+      "effect": "Flip 2 coins. This attack does 50 damage for each heads.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 50
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 90,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 2
+}

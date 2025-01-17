@@ -1,0 +1,24 @@
+{
+  "id": "50",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
+  "name": "Weezing",
+  "card_type": "Pokémon",
+  "artist": "Mousho",
+  "attacks": [
+    {
+      "name": "Smokescreen",
+      "cost": "DD",
+      "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Darkness",
+  "life": 110,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 3
+}

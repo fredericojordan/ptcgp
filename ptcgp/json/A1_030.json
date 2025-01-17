@@ -1,0 +1,24 @@
+{
+  "id": "30",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp",
+  "name": "Lilligant",
+  "card_type": "Pokémon",
+  "artist": "You Iribi",
+  "attacks": [
+    {
+      "name": "Leaf",
+      "cost": "GG",
+      "effect": "Take a [G] Energy from your Energy Zone and attach it to 1 of your Benched [G] Pokémon.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 100,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

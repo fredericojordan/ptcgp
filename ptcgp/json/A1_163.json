@@ -1,0 +1,24 @@
+{
+  "id": "163",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp",
+  "name": "Grapploct",
+  "card_type": "Pokémon",
+  "artist": "kurumitsu",
+  "attacks": [
+    {
+      "name": "Knock",
+      "cost": "FFC",
+      "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 130,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 3
+}

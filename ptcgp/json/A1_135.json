@@ -1,0 +1,24 @@
+{
+  "id": "135",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp",
+  "name": "Golett",
+  "card_type": "Pokémon",
+  "artist": "Kyoko Umemoto",
+  "attacks": [
+    {
+      "name": "Mega",
+      "cost": "PCC",
+      "effect": "",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 90,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 3
+}

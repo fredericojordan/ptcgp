@@ -1,0 +1,24 @@
+{
+  "id": "240",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp",
+  "name": "Nidoqueen",
+  "card_type": "Pokémon",
+  "artist": "aoki",
+  "attacks": [
+    {
+      "name": "Lovestrike",
+      "cost": "DDC",
+      "effect": "This attack does 50 more damage for each of your Benched Nidoking.",
+      "damage": null,
+      "damage_min": 80,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Darkness",
+  "life": 140,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

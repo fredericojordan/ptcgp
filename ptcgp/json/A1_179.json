@@ -1,0 +1,24 @@
+{
+  "id": "179",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp",
+  "name": "Pawniard",
+  "card_type": "Pokémon",
+  "artist": "Kouki Saitou",
+  "attacks": [
+    {
+      "name": "Pierce",
+      "cost": "M",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Metal",
+  "life": 50,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

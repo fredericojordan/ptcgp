@@ -1,0 +1,24 @@
+{
+  "id": "111",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp",
+  "name": "Heliolisk",
+  "card_type": "Pokémon",
+  "artist": "otumami",
+  "attacks": [
+    {
+      "name": "Quick",
+      "cost": "CC",
+      "effect": "Flip a coin. If heads, this attack does 40 more damage.",
+      "damage": null,
+      "damage_min": 40,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Lightning",
+  "life": 90,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

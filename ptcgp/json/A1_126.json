@@ -1,0 +1,24 @@
+{
+  "id": "126",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp",
+  "name": "Mr. Mime",
+  "card_type": "Pokémon",
+  "artist": "Kagemaru Himeno",
+  "attacks": [
+    {
+      "name": "Barrier",
+      "cost": "PC",
+      "effect": "During your opponent's next turn, this Pokémon takes -20 damage from attacks.",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 80,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

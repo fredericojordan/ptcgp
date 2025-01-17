@@ -1,0 +1,27 @@
+{
+  "id": "56",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
+  "name": "Druddigon",
+  "card_type": "Pokémon",
+  "artist": "Ryota Murayama",
+  "attacks": [
+    {
+      "name": "Dragon",
+      "cost": "RWC",
+      "effect": "",
+      "damage": 90,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Dragon",
+  "life": 100,
+  "ability": {
+    "name": "Rough Skin",
+    "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+  },
+  "weakness": null,
+  "retreat_cost": 2
+}

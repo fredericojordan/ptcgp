@@ -1,0 +1,27 @@
+{
+  "id": "98",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
+  "name": "Magneton",
+  "card_type": "Pokémon",
+  "artist": "kirisAki",
+  "attacks": [
+    {
+      "name": "Spinning",
+      "cost": "LCCC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Lightning",
+  "life": 80,
+  "ability": {
+    "name": "Volt Charge",
+    "effect": "Once during your turn, you may take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+  },
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

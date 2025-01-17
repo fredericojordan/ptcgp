@@ -1,0 +1,24 @@
+{
+  "id": "38",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp",
+  "name": "Ninetales",
+  "card_type": "Pokémon",
+  "artist": "You Iribi",
+  "attacks": [
+    {
+      "name": "Flamethrower",
+      "cost": "RR",
+      "effect": "Discard a [R] Energy from this Pokémon.",
+      "damage": 90,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fire",
+  "life": 90,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

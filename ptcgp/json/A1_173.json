@@ -1,0 +1,24 @@
+{
+  "id": "173",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp",
+  "name": "Golbat",
+  "card_type": "Pokémon",
+  "artist": "Masakazu Fukuda",
+  "attacks": [
+    {
+      "name": "Wing",
+      "cost": "C",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Darkness",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

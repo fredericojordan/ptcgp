@@ -1,0 +1,24 @@
+{
+  "id": "14",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp",
+  "name": "Paras",
+  "card_type": "Pokémon",
+  "artist": "Naoyo Kimura",
+  "attacks": [
+    {
+      "name": "Scratch",
+      "cost": "GC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Grass",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

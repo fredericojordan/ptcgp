@@ -1,0 +1,24 @@
+{
+  "id": "241",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp",
+  "name": "Nidoking",
+  "card_type": "Pokémon",
+  "artist": "nagimiso",
+  "attacks": [
+    {
+      "name": "Poison",
+      "cost": "DDC",
+      "effect": "Your opponent's Active Pokémon is now Poisoned.",
+      "damage": 90,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Darkness",
+  "life": 150,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 3
+}

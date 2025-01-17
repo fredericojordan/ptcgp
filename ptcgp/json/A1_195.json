@@ -1,0 +1,24 @@
+{
+  "id": "195",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp",
+  "name": "Wigglytuff ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA Igarashi",
+  "attacks": [
+    {
+      "name": "Sleepy",
+      "cost": "CCC",
+      "effect": "Your opponent's Active Pokémon is now Asleep.",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊◊",
+  "color": "Colorless",
+  "life": 140,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": "71",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp",
+  "name": "Salandit",
+  "card_type": "Pokémon",
+  "artist": "Nurikabe",
+  "attacks": [
+    {
+      "name": "Venoshock",
+      "cost": "C",
+      "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage.",
+      "damage": null,
+      "damage_min": 10,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Fire",
+  "life": 60,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

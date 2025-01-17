@@ -1,0 +1,27 @@
+{
+  "id": "7",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp",
+  "name": "Butterfree",
+  "card_type": "Pokémon",
+  "artist": "Shin Nagasawa",
+  "attacks": [
+    {
+      "name": "Gust",
+      "cost": "GCC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Grass",
+  "life": 120,
+  "ability": {
+    "name": "Powder Heal",
+    "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+  },
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

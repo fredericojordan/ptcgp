@@ -1,0 +1,24 @@
+{
+  "id": "153",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp",
+  "name": "Marowak ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA Mochizuki",
+  "attacks": [
+    {
+      "name": "Bonemerang",
+      "cost": "FF",
+      "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 80
+    }
+  ],
+  "rarity": "◊◊◊◊",
+  "color": "Fighting",
+  "life": 140,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

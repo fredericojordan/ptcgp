@@ -1,0 +1,24 @@
+{
+  "id": "193",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp",
+  "name": "Jigglypuff",
+  "card_type": "Pokémon",
+  "artist": "Mizue",
+  "attacks": [
+    {
+      "name": "Pound",
+      "cost": "CC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

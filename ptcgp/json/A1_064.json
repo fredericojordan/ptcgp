@@ -1,0 +1,24 @@
+{
+  "id": "64",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp",
+  "name": "Seel",
+  "card_type": "Pokémon",
+  "artist": "Masako Yamashita",
+  "attacks": [
+    {
+      "name": "Headbutt",
+      "cost": "CC",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 80,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

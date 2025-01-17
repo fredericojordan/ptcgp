@@ -1,0 +1,24 @@
+{
+  "id": "178",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp",
+  "name": "Mawile",
+  "card_type": "Pokémon",
+  "artist": "Kagemaru Himeno",
+  "attacks": [
+    {
+      "name": "Crunch",
+      "cost": "M",
+      "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Metal",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

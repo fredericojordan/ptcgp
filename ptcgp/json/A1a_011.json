@@ -1,0 +1,24 @@
+{
+  "id": "11",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp",
+  "name": "Rapidash",
+  "card_type": "Pokémon",
+  "artist": "AKIRA EGAWA",
+  "attacks": [
+    {
+      "name": "Rising",
+      "cost": "RC",
+      "effect": "Flip a coin. If heads, this attack does 60 more damage.",
+      "damage": null,
+      "damage_min": 40,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fire",
+  "life": 100,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

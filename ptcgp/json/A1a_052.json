@@ -1,0 +1,24 @@
+{
+  "id": "52",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp",
+  "name": "Liepard",
+  "card_type": "Pokémon",
+  "artist": "GIDORA",
+  "attacks": [
+    {
+      "name": "Slash",
+      "cost": "D",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Darkness",
+  "life": 90,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

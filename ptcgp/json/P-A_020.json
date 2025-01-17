@@ -1,0 +1,24 @@
+{
+  "id": "20",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
+  "name": "Haunter",
+  "card_type": "Pokémon",
+  "artist": "Mékayu",
+  "attacks": [
+    {
+      "name": "Surprise",
+      "cost": "P",
+      "effect": "Flip a coin. If tails, this attack does nothing.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Psychic",
+  "life": 70,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

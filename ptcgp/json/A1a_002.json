@@ -1,0 +1,24 @@
+{
+  "id": "2",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp",
+  "name": "Exeggutor",
+  "card_type": "Pokémon",
+  "artist": "Masakazu Fukuda",
+  "attacks": [
+    {
+      "name": "Psychic",
+      "cost": "GCCC",
+      "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+      "damage": null,
+      "damage_min": 80,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 130,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 3
+}

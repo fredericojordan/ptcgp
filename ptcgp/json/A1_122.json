@@ -1,0 +1,24 @@
+{
+  "id": "122",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp",
+  "name": "Gengar",
+  "card_type": "Pokémon",
+  "artist": "Naoyo Kimura",
+  "attacks": [
+    {
+      "name": "Bother",
+      "cost": "P",
+      "effect": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Psychic",
+  "life": 130,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

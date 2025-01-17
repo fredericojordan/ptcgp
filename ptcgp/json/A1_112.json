@@ -1,0 +1,24 @@
+{
+  "id": "112",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp",
+  "name": "Pincurchin",
+  "card_type": "Pokémon",
+  "artist": "Tika Matsuno",
+  "attacks": [
+    {
+      "name": "Thunder",
+      "cost": "LL",
+      "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Lightning",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

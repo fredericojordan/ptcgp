@@ -1,0 +1,24 @@
+{
+  "id": "45",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp",
+  "name": "Flareon",
+  "card_type": "Pokémon",
+  "artist": "sui",
+  "attacks": [
+    {
+      "name": "Flamethrower",
+      "cost": "RCC",
+      "effect": "Discard 1 [R] Energy from this Pokémon.",
+      "damage": 110,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fire",
+  "life": 120,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

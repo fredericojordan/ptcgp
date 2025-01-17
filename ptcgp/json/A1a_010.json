@@ -1,0 +1,24 @@
+{
+  "id": "10",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp",
+  "name": "Ponyta",
+  "card_type": "Pokémon",
+  "artist": "Tomokazu Komiya",
+  "attacks": [
+    {
+      "name": "Stomp",
+      "cost": "R",
+      "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+      "damage": null,
+      "damage_min": 10,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fire",
+  "life": 60,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 1
+}

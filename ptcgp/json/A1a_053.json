@@ -1,0 +1,24 @@
+{
+  "id": "53",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
+  "name": "Venipede",
+  "card_type": "Pokémon",
+  "artist": "Yukiko Baba",
+  "attacks": [
+    {
+      "name": "Ram",
+      "cost": "D",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Darkness",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

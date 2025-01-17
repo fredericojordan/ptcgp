@@ -1,0 +1,24 @@
+{
+  "id": "28",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
+  "name": "Volcarona",
+  "card_type": "Pokémon",
+  "artist": "Shin Nagasawa",
+  "attacks": [
+    {
+      "name": "Volcanic",
+      "cost": "RRC",
+      "effect": "Discard 2 [R] Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Fire",
+  "life": 120,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

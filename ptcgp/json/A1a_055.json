@@ -1,0 +1,24 @@
+{
+  "id": "55",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp",
+  "name": "Scolipede",
+  "card_type": "Pokémon",
+  "artist": "5ban Graphics",
+  "attacks": [
+    {
+      "name": "Venoshock",
+      "cost": "DC",
+      "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",
+      "damage": null,
+      "damage_min": 70,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Darkness",
+  "life": 140,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

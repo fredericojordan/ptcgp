@@ -1,0 +1,24 @@
+{
+  "id": "18",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp",
+  "name": "Gyarados ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Rampaging",
+      "cost": "WWWC",
+      "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's).",
+      "damage": 140,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊◊",
+  "color": "Water",
+  "life": 180,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 3
+}

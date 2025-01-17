@@ -1,0 +1,27 @@
+{
+  "id": "177",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp",
+  "name": "Weezing",
+  "card_type": "Pokémon",
+  "artist": "OOYAMA",
+  "attacks": [
+    {
+      "name": "Tackle",
+      "cost": "D",
+      "effect": "",
+      "damage": 30,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Darkness",
+  "life": 110,
+  "ability": {
+    "name": "Gas Leak",
+    "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon Poisoned."
+  },
+  "weakness": "Fighting",
+  "retreat_cost": 3
+}

@@ -1,0 +1,24 @@
+{
+  "id": "278",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_278_EN.webp",
+  "name": "Machamp ex",
+  "card_type": "Pokémon",
+  "artist": "AKIRA EGAWA",
+  "attacks": [
+    {
+      "name": "Mega",
+      "cost": "FFF",
+      "effect": "",
+      "damage": 120,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Fighting",
+  "life": 180,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 3
+}

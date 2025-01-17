@@ -1,0 +1,24 @@
+{
+  "id": "119",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp",
+  "name": "Slowbro",
+  "card_type": "Pokémon",
+  "artist": "Kagemaru Himeno",
+  "attacks": [
+    {
+      "name": "Super",
+      "cost": "PPC",
+      "effect": "",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 130,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 3
+}

@@ -1,0 +1,24 @@
+{
+  "id": "189",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp",
+  "name": "Rattata",
+  "card_type": "Pokémon",
+  "artist": "Atsushi Furusawa",
+  "attacks": [
+    {
+      "name": "Gnaw",
+      "cost": "C",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 40,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

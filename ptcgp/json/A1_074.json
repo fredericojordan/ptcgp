@@ -1,0 +1,24 @@
+{
+  "id": "74",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp",
+  "name": "Staryu",
+  "card_type": "Pokémon",
+  "artist": "Hiroki Asanuma",
+  "attacks": [
+    {
+      "name": "Smack",
+      "cost": "W",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Water",
+  "life": 50,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

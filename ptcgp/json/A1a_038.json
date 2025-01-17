@@ -1,0 +1,24 @@
+{
+  "id": "38",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
+  "name": "Florges",
+  "card_type": "Pokémon",
+  "artist": "Cona Nitanda",
+  "attacks": [
+    {
+      "name": "Bloomshine",
+      "cost": "PP",
+      "effect": "Heal 20 damage from each of your Pokémon.",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Psychic",
+  "life": 120,
+  "ability": null,
+  "weakness": "Metal",
+  "retreat_cost": 1
+}

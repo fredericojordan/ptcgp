@@ -1,0 +1,24 @@
+{
+  "id": "5",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
+  "name": "Servine",
+  "card_type": "Pokémon",
+  "artist": "Shigenori Negishi",
+  "attacks": [
+    {
+      "name": "Vine",
+      "cost": "GC",
+      "effect": "",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 80,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

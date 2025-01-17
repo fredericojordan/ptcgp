@@ -1,0 +1,24 @@
+{
+  "id": "130",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp",
+  "name": "Ralts",
+  "card_type": "Pokémon",
+  "artist": "Yuka Morii",
+  "attacks": [
+    {
+      "name": "Ram",
+      "cost": "C",
+      "effect": "",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Psychic",
+  "life": 60,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

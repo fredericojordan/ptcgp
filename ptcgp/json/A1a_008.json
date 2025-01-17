@@ -1,0 +1,24 @@
+{
+  "id": "8",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
+  "name": "Shiinotic",
+  "card_type": "Pokémon",
+  "artist": "Mizue",
+  "attacks": [
+    {
+      "name": "Flickering",
+      "cost": "GG",
+      "effect": "Your opponent's Active Pokémon is now Asleep.",
+      "damage": 50,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 90,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": "83",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp",
+  "name": "Articuno",
+  "card_type": "Pokémon",
+  "artist": "Hitoshi Ariga",
+  "attacks": [
+    {
+      "name": "Ice",
+      "cost": "WWC",
+      "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Water",
+  "life": 100,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

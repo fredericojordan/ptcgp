@@ -1,0 +1,24 @@
+{
+  "id": "149",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
+  "name": "Golem",
+  "card_type": "Pokémon",
+  "artist": "Sumiyoshi Kizuki",
+  "attacks": [
+    {
+      "name": "Double-Edge",
+      "cost": "FCCC",
+      "effect": "This Pokémon also does 50 damage to itself.",
+      "damage": 150,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Fighting",
+  "life": 160,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 4
+}

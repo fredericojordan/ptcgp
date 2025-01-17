@@ -1,0 +1,24 @@
+{
+  "id": "235",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp",
+  "name": "Electrode",
+  "card_type": "Pokémon",
+  "artist": "DOM",
+  "attacks": [
+    {
+      "name": "Electro",
+      "cost": "LL",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Lightning",
+  "life": 80,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 0
+}

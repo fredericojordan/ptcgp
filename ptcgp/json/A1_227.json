@@ -1,0 +1,24 @@
+{
+  "id": "227",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_227_EN.webp",
+  "name": "Bulbasaur",
+  "card_type": "Pokémon",
+  "artist": "Ryota Murayama",
+  "attacks": [
+    {
+      "name": "Vine",
+      "cost": "GC",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Grass",
+  "life": 70,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

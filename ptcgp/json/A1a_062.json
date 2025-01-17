@@ -1,0 +1,24 @@
+{
+  "id": "62",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
+  "name": "Chatot",
+  "card_type": "Pokémon",
+  "artist": "Masako Tomii",
+  "attacks": [
+    {
+      "name": "Mimic",
+      "cost": "C",
+      "effect": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 60,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

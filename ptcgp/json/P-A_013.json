@@ -1,0 +1,27 @@
+{
+  "id": "13",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
+  "name": "Butterfree",
+  "card_type": "Pokémon",
+  "artist": "miki kudo",
+  "attacks": [
+    {
+      "name": "Gust",
+      "cost": "GCC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Grass",
+  "life": 120,
+  "ability": {
+    "name": "Powder Heal",
+    "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+  },
+  "weakness": "Fire",
+  "retreat_cost": 1
+}

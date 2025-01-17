@@ -1,0 +1,27 @@
+{
+  "id": "6",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp",
+  "name": "Serperior",
+  "card_type": "Pokémon",
+  "artist": "Yoshioka",
+  "attacks": [
+    {
+      "name": "Solar",
+      "cost": "GCCC",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Grass",
+  "life": 110,
+  "ability": {
+    "name": "Jungle Totem",
+    "effect": "Each [G] Energy attached to your [G] Pokémon provides 2 [G] Energy. This effect doesn't stack."
+  },
+  "weakness": "Fire",
+  "retreat_cost": 2
+}

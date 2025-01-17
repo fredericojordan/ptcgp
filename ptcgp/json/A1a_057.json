@@ -1,0 +1,24 @@
+{
+  "id": "57",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp",
+  "name": "Pidgey",
+  "card_type": "Pokémon",
+  "artist": "Shigenori Negishi",
+  "attacks": [
+    {
+      "name": "Flap",
+      "cost": "C",
+      "effect": "",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Colorless",
+  "life": 50,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

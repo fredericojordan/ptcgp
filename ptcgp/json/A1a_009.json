@@ -1,0 +1,24 @@
+{
+  "id": "9",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp",
+  "name": "Dhelmise",
+  "card_type": "Pokémon",
+  "artist": "Hasuno",
+  "attacks": [
+    {
+      "name": "Energy",
+      "cost": "G",
+      "effect": "If this Pokémon has at least 3 extra [G] Energy attached, this attack does 70 more damage.",
+      "damage": null,
+      "damage_min": 20,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Grass",
+  "life": 100,
+  "ability": null,
+  "weakness": "Fire",
+  "retreat_cost": 2
+}

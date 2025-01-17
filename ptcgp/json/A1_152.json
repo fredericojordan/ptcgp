@@ -1,0 +1,24 @@
+{
+  "id": "152",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp",
+  "name": "Marowak",
+  "card_type": "Pokémon",
+  "artist": "Shin Nagasawa",
+  "attacks": [
+    {
+      "name": "Bone",
+      "cost": "F",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fighting",
+  "life": 100,
+  "ability": null,
+  "weakness": "Grass",
+  "retreat_cost": 1
+}

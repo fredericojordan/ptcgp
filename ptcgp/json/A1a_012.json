@@ -1,0 +1,24 @@
+{
+  "id": "12",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
+  "name": "Magmar",
+  "card_type": "Pokémon",
+  "artist": "sui",
+  "attacks": [
+    {
+      "name": "Fire",
+      "cost": "RR",
+      "effect": "Discard 2 [R] Energy from this Pokémon.",
+      "damage": 80,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fire",
+  "life": 80,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

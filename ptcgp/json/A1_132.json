@@ -1,0 +1,27 @@
+{
+  "id": "132",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp",
+  "name": "Gardevoir",
+  "card_type": "Pokémon",
+  "artist": "Yuu Nishida",
+  "attacks": [
+    {
+      "name": "Psyshot",
+      "cost": "PPC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Psychic",
+  "life": 110,
+  "ability": {
+    "name": "Psy Shadow",
+    "effect": "Once during your turn, you may take 1 [P] Energy from your Energy Zone and attach it to the [P] Pokémon in the Active Spot."
+  },
+  "weakness": "Darkness",
+  "retreat_cost": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": "81",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp",
+  "name": "Omanyte",
+  "card_type": "Pokémon",
+  "artist": "Suwama Chiaki",
+  "attacks": [
+    {
+      "name": "Water",
+      "cost": "W",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Water",
+  "life": 90,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 1
+}

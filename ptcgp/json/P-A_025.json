@@ -1,0 +1,32 @@
+{
+  "id": "25",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
+  "name": "Moltres ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA Igarashi",
+  "attacks": [
+    {
+      "name": "Inferno",
+      "cost": "R",
+      "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Heat",
+      "cost": "RCC",
+      "effect": "",
+      "damage": 70,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": null,
+  "color": "Fire",
+  "life": 140,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 2
+}

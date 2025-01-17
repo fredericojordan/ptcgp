@@ -1,0 +1,24 @@
+{
+  "id": "154",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_154_EN.webp",
+  "name": "Hitmonlee",
+  "card_type": "Pokémon",
+  "artist": "Yukiko Baba",
+  "attacks": [
+    {
+      "name": "Stretch",
+      "cost": "F",
+      "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Fighting",
+  "life": 80,
+  "ability": null,
+  "weakness": "Psychic",
+  "retreat_cost": 1
+}

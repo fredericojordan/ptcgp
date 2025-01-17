@@ -1,0 +1,24 @@
+{
+  "id": "73",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp",
+  "name": "Dedenne",
+  "card_type": "Pokémon",
+  "artist": "Yuu Nishida",
+  "attacks": [
+    {
+      "name": "Thunder",
+      "cost": "L",
+      "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+      "damage": 10,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆",
+  "color": "Lightning",
+  "life": 60,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

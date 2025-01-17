@@ -1,0 +1,24 @@
+{
+  "id": "54",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp",
+  "name": "Whirlipede",
+  "card_type": "Pokémon",
+  "artist": "Shin Nagasawa",
+  "attacks": [
+    {
+      "name": "Poison",
+      "cost": "D",
+      "effect": "Your opponent's Active Pokémon is now Poisoned.",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊",
+  "color": "Darkness",
+  "life": 90,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 2
+}

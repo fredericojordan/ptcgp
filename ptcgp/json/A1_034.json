@@ -1,0 +1,24 @@
+{
+  "id": "34",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp",
+  "name": "Charmeleon",
+  "card_type": "Pokémon",
+  "artist": "kantaro",
+  "attacks": [
+    {
+      "name": "Fire",
+      "cost": "RCC",
+      "effect": "",
+      "damage": 60,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊",
+  "color": "Fire",
+  "life": 90,
+  "ability": null,
+  "weakness": "Water",
+  "retreat_cost": 2
+}

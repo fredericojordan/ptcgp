@@ -1,0 +1,32 @@
+{
+  "id": "256",
+  "expansion": "A1",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp",
+  "name": "Blastoise ex",
+  "card_type": "Pokémon",
+  "artist": "PLANETA CG Works",
+  "attacks": [
+    {
+      "name": "Surf",
+      "cost": "WC",
+      "effect": "",
+      "damage": 40,
+      "damage_min": null,
+      "damage_mult": null
+    },
+    {
+      "name": "Hydro",
+      "cost": "WWC",
+      "effect": "If this Pokémon has at least 2 extra [W] Energy attached, this attack does 60 more damage.",
+      "damage": null,
+      "damage_min": 100,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "☆☆",
+  "color": "Water",
+  "life": 180,
+  "ability": null,
+  "weakness": "Lightning",
+  "retreat_cost": 3
+}

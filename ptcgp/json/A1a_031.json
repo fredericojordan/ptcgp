@@ -1,0 +1,24 @@
+{
+  "id": "31",
+  "expansion": "A1a",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
+  "name": "Mew",
+  "card_type": "Pokémon",
+  "artist": "Saya Tsuruta",
+  "attacks": [
+    {
+      "name": "Psy",
+      "cost": "P",
+      "effect": "Your opponent reveals their hand.",
+      "damage": 20,
+      "damage_min": null,
+      "damage_mult": null
+    }
+  ],
+  "rarity": "◊◊◊",
+  "color": "Psychic",
+  "life": 60,
+  "ability": null,
+  "weakness": "Darkness",
+  "retreat_cost": 1
+}

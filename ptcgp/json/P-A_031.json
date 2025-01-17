@@ -1,0 +1,24 @@
+{
+  "id": "31",
+  "expansion": "P-A",
+  "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
+  "name": "Cinccino",
+  "card_type": "Pokémon",
+  "artist": "MAHOU",
+  "attacks": [
+    {
+      "name": "Do",
+      "cost": "CCC",
+      "effect": "This attack does 30 damage for each of your Benched Pokémon.",
+      "damage": null,
+      "damage_min": null,
+      "damage_mult": 30
+    }
+  ],
+  "rarity": null,
+  "color": "Colorless",
+  "life": 90,
+  "ability": null,
+  "weakness": "Fighting",
+  "retreat_cost": 1
+}

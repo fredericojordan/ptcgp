@@ -5,12 +5,10 @@ import dash_mantine_components as dmc
 import pandas as pd
 import plotly.graph_objects as go
 
-from ptcgp import constants, parser, objects
+from ptcgp import constants, objects
 from ptcgp.app.components import Select
 
 dash.register_page(__name__, path="/")
-
-ALL_CARDS = sorted(parser.parse_all_cards(), key=lambda c: c.index_str)
 
 carousel = dmc.Carousel(
     children=[],
@@ -83,10 +81,9 @@ def display_cards(data: list[dict]):
 def make_graph(data: list[dict]):
     graph_data = []
     if len(data) > 0:
-        cards = [objects.Card.model_validate(c).model_dump() for c in data]
-        df = pd.DataFrame(cards)
-        life_counts = df.life.value_counts()
-        dmg_counts = df.dmg.value_counts()
+        cards = pd.DataFrame(data)
+        life_counts = cards.life.value_counts()
+        dmg_counts = cards.dmg.value_counts()
         graph_data = [
             go.Bar(name="Life", x=life_counts.index, y=life_counts.values),
             go.Bar(name="Dmg", x=dmg_counts.index, y=dmg_counts.values),
@@ -116,27 +113,28 @@ def filter_cards(
     stages: list[str],
     expansions: list[str],
 ) -> list[dict]:
-    cards = ALL_CARDS
+    cards = objects.ALL_CARDS_DF
 
     if color_values:
-        cards = [c for c in cards if c.color in color_values]
+        cards = cards[cards.color.isin(color_values)]
     if rarity_values:
-        cards = [c for c in cards if c.rarity in rarity_values]
+        cards = cards[cards.rarity.isin(rarity_values)]
     if card_types:
-        cards = [c for c in cards if c.card_type in card_types]
+        cards = cards[cards.card_type.isin(card_types)]
     if weaknesses:
-        cards = [c for c in cards if c.weakness in weaknesses]
+        cards = cards[cards.weakness.isin(weaknesses)]
     if ability is not None:
-        if ability == constants.Ability.WITH_ABILITY:
-            cards = [c for c in cards if c.ability is not None]
-        else:
-            cards = [c for c in cards if c.ability is None]
+        cards = (
+            cards[cards.ability.notnull()]
+            if ability == constants.Ability.WITH_ABILITY
+            else cards[cards.ability.isnull()]
+        )
     if stages:
-        cards = [c for c in cards if c.stage in stages]
+        cards = cards[cards.stage.isin(stages)]
     if expansions:
-        cards = [c for c in cards if c.expansion in expansions]
+        cards = cards[cards.expansion.isin(expansions)]
 
-    return [c.model_dump() for c in cards]
+    return cards.to_dict("records")
 
 
 dash.clientside_callback(

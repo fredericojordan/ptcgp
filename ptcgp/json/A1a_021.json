@@ -12,7 +12,7 @@
       "name": "Aqua",
       "cost": "WW",
       "effect": "This attack does 50 damage to 1 of your opponent's Benched Pokémon.",
-      "damage": null,
+      "damage": 50,
       "damage_min": null,
       "damage_mult": null
     }
@@ -22,5 +22,5 @@
   "ability": null,
   "weakness": "Lightning",
   "retreat_cost": 0,
-  "dmg": 0
+  "dmg": 50
 }

@@ -4,7 +4,7 @@ import dash
 import dash_mantine_components as dmc
 import plotly.express as px
 
-from ptcgp import objects, parser
+from ptcgp import objects
 
 dash.register_page(__name__, path_template="/card/<card_str>")
 
@@ -27,8 +27,8 @@ def stats_graph(card: objects.Card):
 def layout(card_str: str | None = None, **kwargs):
     if not card_str:
         return dmc.Text("No card selected.")
-    exp_name, card_id = card_str.split("_", maxsplit=1)
-    card = parser.parse_card_by_id(exp_name, card_id)
+
+    card = objects.Card.from_file(f"{card_str}.json")
     stats = dmc.Group(
         [
             dmc.Image(src=card.image, alt=card.name, fit="scale-down", h=500),

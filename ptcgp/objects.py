@@ -1,9 +1,11 @@
 __all__ = (
+    "ALL_CARDS",
     "Ability",
     "Attack",
     "Card",
 )
 
+import json
 import os
 
 import bs4
@@ -311,9 +313,25 @@ class Card(pydantic.BaseModel):
             n = file.write(self.model_dump_json(indent=2))
             print(f"wrote {n} to {filepath}")
 
+    @classmethod
+    def from_file(cls, filename: str) -> "Card":
+        filepath = os.path.join(constants.Constants.JSON_FOLDER, filename)
+        with open(filepath, "r", encoding="utf-8") as file:
+            return cls.model_validate(json.loads(file.read()))
+
     def as_ui(self):
         img = dmc.Image(src=self.image, alt=self.name, fit="scale-down", h=500)
         return dash.html.A(
             href=f"/card/{self.index_str}",
             children=[img],
         )
+
+
+ALL_CARDS = sorted(
+    (
+        Card.from_file(json_file)
+        for json_file in os.listdir(constants.Constants.JSON_FOLDER)
+    ),
+    key=lambda c: c.index_str,
+)
+ALL_CARDS_DF = pd.DataFrame([c.model_dump() for c in ALL_CARDS])

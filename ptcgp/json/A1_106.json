@@ -12,7 +12,7 @@
       "name": "Thunder",
       "cost": "L",
       "effect": "This attack does 30 damage to 1 of your opponent's Pokémon.",
-      "damage": null,
+      "damage": 30,
       "damage_min": null,
       "damage_mult": null
     }
@@ -22,5 +22,5 @@
   "ability": null,
   "weakness": "Fighting",
   "retreat_cost": 1,
-  "dmg": 0
+  "dmg": 30
 }

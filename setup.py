@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ptcgp",
-    version="0.2.1",
+    version="0.3.0",
     url="https://github.com/fredericojordan/ptcgp.git",
     author="Frederico Jordan",
     author_email="fredericojordan@gmail.com",
